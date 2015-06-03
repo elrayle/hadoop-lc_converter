@@ -23,8 +23,8 @@ public class AggregateJob extends Configured implements Tool {
     FileOutputFormat.setOutputPath(job, new Path(args[1]));
 
     job.setMapperClass(ProjectionMapper.class);
-//    job.setCombinerClass(LongSumReducer.class);
-//    job.setReducerClass(LongSumReducer.class);
+    job.setCombinerClass(LongSumReducer.class);
+    job.setReducerClass(LongSumReducer.class);
 
     job.setOutputKeyClass(Text.class);
     job.setOutputValueClass(LongWritable.class);

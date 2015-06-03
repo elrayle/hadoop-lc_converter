@@ -1,0 +1,2 @@
+$HADOOP_HOME/bin/hadoop jar target/hadoop-drdobbs-1.0.0.jar com.tom_e_white.drdobbs.mapreduce.AggregateJob data output
+$HADOOP_HOME/bin/hadoop jar target/hadoop-lc_converter-1.0.0.jar com.tom_e_white.drdobbs.mapreduce.TopKJob data output
