@@ -1,4 +1,4 @@
-package com.tom_e_white.lc_converter.mapreduce;
+package edu.cornell.library.lc_converter.mapreduce;
 
 import org.apache.hadoop.conf.Configured;
 import org.apache.hadoop.fs.Path;
@@ -23,8 +23,8 @@ public class AggregateJob extends Configured implements Tool {
     FileOutputFormat.setOutputPath(job, new Path(args[1]));
 
     job.setMapperClass(ProjectionMapper.class);
-    job.setCombinerClass(LongSumReducer.class);
-    job.setReducerClass(LongSumReducer.class);
+//    job.setCombinerClass(LongSumReducer.class);
+//    job.setReducerClass(LongSumReducer.class);
 
     job.setOutputKeyClass(Text.class);
     job.setOutputValueClass(LongWritable.class);
