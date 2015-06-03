@@ -1,15 +1,14 @@
-package com.tom_e_white.drdobbs.mapreduce;
+package com.tom_e_white.lc_converter.mapreduce;
 
 import org.apache.hadoop.io.LongWritable;
 import org.apache.hadoop.io.Text;
-import org.apache.hadoop.mapreduce.Mapper;
+import org.apache.hadoop.mapreduce.Reducer;
 
 import java.io.IOException;
 import java.util.List;
 import java.util.Set;
 
-public class TopKMapper extends Mapper<Text, Text, Text, LongWritable> {
-
+public class TopKReducer extends Reducer<Text, LongWritable, Text, LongWritable> {
   private TopKCollection topK;
 
   @Override
@@ -17,10 +16,12 @@ public class TopKMapper extends Mapper<Text, Text, Text, LongWritable> {
     int k = context.getConfiguration().getInt(TopKJob.TOP_K_PROPERTY, 10);
     this.topK = new TopKCollection(k);
   }
-  
+
   @Override
-  protected void map(Text word, Text count, Context context) {
-    topK.add(word.toString(), Long.parseLong(count.toString()));
+  protected void reduce(Text word, Iterable<LongWritable> counts, Context context) {
+    for (LongWritable count : counts) {
+      topK.add(word.toString(), count.get());
+    }
   }
 
   @Override

@@ -1,4 +1,4 @@
-package com.tom_e_white.drdobbs.mapreduce;
+package com.tom_e_white.lc_converter.mapreduce;
 
 import java.util.ArrayList;
 import java.util.Collections;
