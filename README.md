@@ -29,7 +29,7 @@ $ hadoop fs -mkdir -p data
 $ hadoop fs -put -p data data
 $ hadoop fs -ls -p data/
 
-$HADOOP_HOME/bin/hadoop jar target/hadoop-drdobbs-1.0.0.jar com.tom_e_white.drdobbs.mapreduce.AggregateJob data output
+$HADOOP_HOME/bin/hadoop jar target/hadoop-drdobbs-1.0.0.jar edu.cornell.library.lc_converter.mapreduce.AggregateJob data output
 
 
 ### Example 2: TopK
