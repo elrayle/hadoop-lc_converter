@@ -1,4 +1,4 @@
-package com.tom_e_white.lc_converter.mapreduce;
+package edu.cornell.library.lc_converter.mapreduce;
 
 import com.google.common.base.Joiner;
 import org.junit.Test;
