@@ -1,17 +1,21 @@
 package edu.cornell.library.lc_converter.mapreduce;
 
 import org.apache.hadoop.mapreduce.RecordReader;
+import org.apache.hadoop.mapreduce.CombineFileRecordReader;
 import org.apache.hadoop.mapreduce.JobContext;
 import org.apache.hadoop.mapreduce.TaskAttemptContext;
-import org.apache.hadoop.mapreduce.InputSplit;
-import org.apache.hadoop.mapreduce.lib.input.FileInputFormat;
+import org.apache.hadoop.mapreduce.CombineFileSplit;
+import org.apache.hadoop.mapreduce.lib.input.CombineFileInputFormat;
+import org.apache.hadoop.fs.Path;
 import org.apache.hadoop.io.Text;
 import org.apache.hadoop.io.NullWritable;
 
 import java.io.IOException;
+import java.lang.IllegalArgumentException;
 
 
-public class WholeFileInputFormat extends FileInputFormat {
+
+public class WholeFileInputFormat extends CombineFileInputFormat<NullWritable, Text> {
 
   @Override
   protected boolean isSplitable(JobContext context, Path file) {
@@ -19,7 +23,7 @@ public class WholeFileInputFormat extends FileInputFormat {
   }
 
   /**
-   * Creates a NonSplittableRecordReader to read each file assigned to this InputSplit.
+   * Creates a CombineFileRecordReader to read each file assigned to this InputSplit.
    * Note, that unlike ordinary InputSplits, split must be a CombineFileSplit, and therefore
    * is expected to specify multiple files.
    *
@@ -33,22 +37,11 @@ public class WholeFileInputFormat extends FileInputFormat {
   @Override
   public RecordReader<NullWritable, Text> createRecordReader(
           InputSplit split, TaskAttemptContext context) throws IOException {
-    return new RecordReader<NullWritable, Text>( split, context, WholeFileRecordReader.class);
+
+    if (!(split instanceof CombineFileSplit)) {
+      throw new IllegalArgumentException("split must be a CombineFileSplit");
+    }
+    return new CombineFileRecordReader<NullWritable, Text>((CombineFileSplit) split, context, WholeFileRecordReader.class);
   }
 
-//  @Override
-//  public RecordReader<NullWritable, Text> createRecordReader(
-//          InputSplit split, TaskAttemptContext context) throws IOException {
-//
-//    if (!(split instanceof CombineFileSplit)) {
-//      throw new IllegalArgumentException("split must be a CombineFileSplit");
-//    }
-//    return new CombineFileRecordReader<NullWritable, Text>((CombineFileSplit) split, context, WholeFileRecordReader.class);
-//  }
-
-}
-
-
-
-
-
+ß}
