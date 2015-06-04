@@ -9,9 +9,9 @@ import java.util.List;
 import java.util.Set;
 import java.util.HashSet;
 import java.io.InputStream;
-import java.xml.stream.XMLStreamException;
-import java.xml.stream.XMLStreamReader;
-import java.xml.stream.XMLInputFactory;
+import javax.xml.stream.XMLStreamException;
+import javax.xml.stream.XMLStreamReader;
+import javax.xml.stream.XMLInputFactory;
 
 
 public class MarcConversionMapper extends Mapper<Text, Text, Text, LongWritable> {

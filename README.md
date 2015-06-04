@@ -28,10 +28,22 @@ Starting from base directory of this project.
 $ hadoop fs -mkdir -p data
 $ hadoop fs -put -p data data
 $ hadoop fs -ls -p data/
+$ hadoop fs -mkdir -p output
+```
 
-$HADOOP_HOME/bin/hadoop jar target/hadoop-drdobbs-1.0.0.jar edu.cornell.library.lc_converter.mapreduce.AggregateJob data output
+$HADOOP_HOME/bin/hadoop jar target/hadoop-lc_converter-0.0.1.jar edu.cornell.library.lc_converter.mapreduce.AggregateJob data output
 
 
-### Example 2: TopK
+### Example 2: MarcConversion (from marcxml to bibframe)
 
-$HADOOP_HOME/bin/hadoop jar target/hadoop-lc_converter-1.0.0.jar com.tom_e_white.drdobbs.mapreduce.TopKJob data output
+Starting from base directory of this project.
+```
+$ hadoop fs -mkdir -p marcxml_input
+$ hadoop fs -put -p data marcxml_input
+$ hadoop fs -ls -p marcxml_input
+$ hadoop fs -mkdir -p bibframe_output
+```
+
+$HADOOP_HOME/bin/hadoop jar target/hadoop-lc_converter-0.0.1.jar edu.cornell.library.lc_converter.mapreduce.MarcConversionJob marcxml_input bibframe_output
+
+
