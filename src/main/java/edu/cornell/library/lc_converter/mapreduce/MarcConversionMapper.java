@@ -23,26 +23,27 @@ public class MarcConversionMapper <K> extends Mapper<K, Text, Text, Text>{
 
   @Override
   protected void map(K unused, Text marcxmlCollection, Context context) throws IOException, InterruptedException {
-    Iterator marcRecords = marcxmlCollectionParser( marcxmlCollection.toString() ).iterator();
+//    Iterator marcRecords = marcxmlCollectionParser( marcxmlCollection.toString() ).iterator();
 
-    for( String marcXml = (String)marcRecords.next(); marcRecords.hasNext(); marcXml = (String)marcRecords.next() ){
-        context.write(new Text(marcXml), null);
+//    for( String marcXml = (String)marcRecords.next(); marcRecords.hasNext(); marcXml = (String)marcRecords.next() ){
+//        context.write(new Text(marcXml), null);
+      context.write(marcxmlCollection);
     }
   }
 
-  private HashSet<String> marcxmlCollectionParser( String marcxmlCollection ) throws XMLStreamException, Exception {
-    InputStream xmlstream = new ByteArrayInputStream(marcxmlCollection.getBytes(StandardCharsets.UTF_8));
-    HashSet<String> marcRecords = new HashSet();
-    XMLInputFactory input_factory = XMLInputFactory.newInstance();
-    XMLStreamReader r  =
-            input_factory.createXMLStreamReader(xmlstream);
-    while (r.hasNext()) {
-      if (r.next() == XMLEvent.START_ELEMENT)
-        if (r.getLocalName().equals("record")) {
-          marcRecords.add(r.getText());
-        }
-    }
-    return marcRecords;
-  }
+//  private HashSet<String> marcxmlCollectionParser( String marcxmlCollection ) throws XMLStreamException, Exception {
+//    InputStream xmlstream = new ByteArrayInputStream(marcxmlCollection.getBytes(StandardCharsets.UTF_8));
+//    HashSet<String> marcRecords = new HashSet();
+//    XMLInputFactory input_factory = XMLInputFactory.newInstance();
+//    XMLStreamReader r  =
+//            input_factory.createXMLStreamReader(xmlstream);
+//    while (r.hasNext()) {
+//      if (r.next() == XMLEvent.START_ELEMENT)
+//        if (r.getLocalName().equals("record")) {
+//          marcRecords.add(r.getText());
+//        }
+//    }
+//    return marcRecords;
+//  }
 
 }
