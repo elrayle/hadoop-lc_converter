@@ -14,7 +14,7 @@ import org.apache.hadoop.io.NullWritable;
 import java.lang.Integer;
 import java.lang.InterruptedException;
 import java.io.IOException;
-import java.util.logging.Logging;
+import java.util.logging.Logger;
 
 public class WholeFileRecordReader extends RecordReader<NullWritable, Text> {
     private static final Logger LOG = Logger.getLogger(WholeFileRecordReader.class);
