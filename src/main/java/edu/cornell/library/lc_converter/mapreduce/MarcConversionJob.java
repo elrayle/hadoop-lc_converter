@@ -37,7 +37,7 @@ public class MarcConversionJob extends Configured implements Tool {
   }
 
   public static void main(String[] args) throws Exception {
-    int rc = ToolRunner.run(new TopKJob(), args);
+    int rc = ToolRunner.run(new MarcConversionJob(), args);
     System.exit(rc);
   }
 }
