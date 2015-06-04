@@ -1,10 +1,10 @@
 package edu.cornell.library.lc_converter.mapreduce;
 
 import org.apache.hadoop.mapreduce.RecordReader;
-import org.apache.hadoop.mapreduce.CombineFileRecordReader;
+import org.apache.hadoop.mapreduce.lib.inputCombineFileRecordReader;
 import org.apache.hadoop.mapreduce.TaskAttemptContext;
 import org.apache.hadoop.mapreduce.InputSplit;
-import org.apache.hadoop.mapreduce.CombineFileSplit;
+import org.apache.hadoop.mapreduce.lib.input.CombineFileSplit;
 import org.apache.hadoop.fs.FileSystem;
 import org.apache.hadoop.fs.Path;
 import org.apache.hadoop.conf.Configuration;
