@@ -27,8 +27,10 @@ public class MarcConversionMapper <K> extends Mapper<K, Text, Text, Text>{
 
 //    for( String marcXml = (String)marcRecords.next(); marcRecords.hasNext(); marcXml = (String)marcRecords.next() ){
 //        context.write(new Text(marcXml), null);
+//    }
+
       context.write(marcxmlCollection);
-    }
+
   }
 
 //  private HashSet<String> marcxmlCollectionParser( String marcxmlCollection ) throws XMLStreamException, Exception {
