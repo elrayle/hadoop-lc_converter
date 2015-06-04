@@ -34,6 +34,7 @@ $ hadoop fs -mkdir -p output
 Run hadoop...
 ```
 $ $HADOOP_HOME/bin/hadoop jar target/hadoop-lc_converter-0.0.1.jar edu.cornell.library.lc_converter.mapreduce.AggregateJob data output
+$ $HADOOP_HOME/bin/hadoop jar target/hadoop-drdobbs-1.0.0.jar com.tom_e_white.drdobbs.mapreduce.AggregateJob data output
 ```
 
 
