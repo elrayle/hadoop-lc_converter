@@ -44,4 +44,4 @@ public class WholeFileInputFormat extends CombineFileInputFormat<NullWritable, T
     return new CombineFileRecordReader<NullWritable, Text>((CombineFileSplit) split, context, WholeFileRecordReader.class);
   }
 
-ß}
+}
