@@ -29,7 +29,7 @@ public class MarcConversionMapper <K> extends Mapper<K, Text, Text, Text>{
 //        context.write(new Text(marcXml), null);
 //    }
 
-      context.write(marcxmlCollection);
+      context.write(marcxmlCollection, null);
 
   }
 
