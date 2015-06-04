@@ -11,6 +11,8 @@ import java.util.Iterator;
 import java.util.Set;
 import java.util.HashSet;
 import java.io.InputStream;
+import java.io.ByteArrayInputStream;
+import java.nio.charset.StandardCharsets;
 import javax.xml.stream.XMLStreamException;
 import javax.xml.stream.XMLStreamReader;
 import javax.xml.stream.XMLInputFactory;
@@ -23,7 +25,7 @@ public class MarcConversionMapper <K> extends Mapper<K, Text, Text, Text>{
   protected void map(K unused, Text marcxmlCollection, Context context) throws IOException, InterruptedException {
     Iterator marcRecords = marcxmlCollectionParser( marcxmlCollection.toString() ).iterator();
 
-    for( String marcXml = marcRecords.next(); marcRecords.hasNext(); marcXml = marcRecords.next() ){
+    for( String marcXml = (String)marcRecords.next(); marcRecords.hasNext(); marcXml = (String)marcRecords.next() ){
         context.write(new Text(marcXml), null);
     }
   }
