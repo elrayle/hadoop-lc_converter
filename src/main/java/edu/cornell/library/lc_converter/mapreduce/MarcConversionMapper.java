@@ -5,7 +5,7 @@ import org.apache.hadoop.io.Text;
 import org.apache.hadoop.mapreduce.Mapper;
 
 import java.io.IOException;
-import java.util.String;
+import java.lang.String;
 import java.util.List;
 import java.util.Iterator;
 import java.util.Set;
@@ -14,7 +14,7 @@ import java.io.InputStream;
 import javax.xml.stream.XMLStreamException;
 import javax.xml.stream.XMLStreamReader;
 import javax.xml.stream.XMLInputFactory;
-import javax.xml.stream.events.Event;
+import javax.xml.stream.events.XMLEvent;
 
 
 public class MarcConversionMapper <K> extends Mapper<K, Text, Text, Text>{
@@ -23,10 +23,10 @@ public class MarcConversionMapper <K> extends Mapper<K, Text, Text, Text>{
   protected void map(K unused, Text urlText, Context context) throws IOException, InterruptedException {
     String urlString = urlText.toString();
     InputStream is = getUrl( urlString  );
-    HashSet<String> marcRecords = this.marcxmlCollectionParser( is ).iterator();
+    HashSet<String> marcRecords = marcxmlCollectionParser( is ).iterator();
 
     for( String marcXml = marcRecords.next(); marcRecords.hasNext(); marcXml = marcRecords.next() ){
-        context.write(marcXml, null);
+        context.write(new Text(marcXml), null);
     }
   }
 
@@ -42,6 +42,19 @@ public class MarcConversionMapper <K> extends Mapper<K, Text, Text, Text>{
         }
     }
     return marcRecords;
+  }
+
+  private InputStream getUrl(String url) throws IOException {
+    InputStream is = null;
+    try {
+      is = davService.getFileAsInputStream(url);
+      if( url.endsWith( ".gz" ) || url.endsWith(".gzip"))
+        return new GZIPInputStream( is );
+      else
+        return is;
+    } catch (Exception e) {
+      throw new IOException("Could not get " + url , e);
+    }
   }
 
 }
