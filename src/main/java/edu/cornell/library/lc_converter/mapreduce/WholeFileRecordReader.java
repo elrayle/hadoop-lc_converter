@@ -17,7 +17,7 @@ import java.io.IOException;
 import java.util.logging.Logger;
 
 public class WholeFileRecordReader extends RecordReader<NullWritable, Text> {
-    private static final Logger LOG = Logger.getLogger(WholeFileRecordReader.class);
+    private static final Logger LOG = Logger.getLogger(WholeFileRecordReader.class.getName());
 
       /** The path to the file to read. */
       private final Path mFileToRead;
