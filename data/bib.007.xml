@@ -1,0 +1,1019 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+  <record>
+    <leader>01148cam a22002771u 4500</leader>
+    <controlfield tag="001">62</controlfield>
+    <controlfield tag="005">20140909180458.0</controlfield>
+    <controlfield tag="008">851126s1908    maua          000 0 eng  </controlfield>
+    <datafield tag="010" ind1=" " ind2=" ">
+      <subfield code="a">   08031994 </subfield>
+    </datafield>
+    <datafield tag="035" ind1=" " ind2=" ">
+      <subfield code="a">(CStRLIN)NYCX85B133302</subfield>
+    </datafield>
+    <datafield tag="035" ind1=" " ind2=" ">
+      <subfield code="a">(NIC)notisAAA0060</subfield>
+    </datafield>
+    <datafield tag="035" ind1=" " ind2=" ">
+      <subfield code="a">(OCoLC)5108869</subfield>
+    </datafield>
+    <datafield tag="035" ind1=" " ind2=" ">
+      <subfield code="a">62</subfield>
+    </datafield>
+    <datafield tag="041" ind1="0" ind2=" ">
+      <subfield code="a">engfre</subfield>
+    </datafield>
+    <datafield tag="050" ind1=" " ind2="4">
+      <subfield code="a">KZ6020.2</subfield>
+      <subfield code="b">1908</subfield>
+    </datafield>
+    <datafield tag="245" ind1="0" ind2="0">
+      <subfield code="a">Texts of the peace conferences at the Hague, 1899 and 1907 :</subfield>
+      <subfield code="b">with English translation and appendix of related documents /</subfield>
+      <subfield code="c">ed., with an introduction, by James Brown Scott ... prefatory note by Elihu Root .</subfield>
+    </datafield>
+    <datafield tag="260" ind1=" " ind2=" ">
+      <subfield code="a">Boston ;</subfield>
+      <subfield code="a">London :</subfield>
+      <subfield code="b">Pub. for the International School of Peace, Ginn &amp; Co.,</subfield>
+      <subfield code="c">1908.</subfield>
+    </datafield>
+    <datafield tag="300" ind1=" " ind2=" ">
+      <subfield code="a">xxxiv, 447 p. :</subfield>
+      <subfield code="b">tables. ;</subfield>
+      <subfield code="c">25 cm.</subfield>
+    </datafield>
+    <datafield tag="546" ind1=" " ind2=" ">
+      <subfield code="a">English and French.</subfield>
+    </datafield>
+    <datafield tag="611" ind1="2" ind2="0">
+      <subfield code="a">International Peace Conference</subfield>
+      <subfield code="n">(1st :</subfield>
+      <subfield code="d">1899 :</subfield>
+      <subfield code="c">Hague, Netherlands)</subfield>
+    </datafield>
+    <datafield tag="611" ind1="2" ind2="0">
+      <subfield code="a">International Peace Conference</subfield>
+      <subfield code="n">(2nd :</subfield>
+      <subfield code="d">1907 :</subfield>
+      <subfield code="c">Hague, Netherlands)</subfield>
+    </datafield>
+    <datafield tag="650" ind1=" " ind2="0">
+      <subfield code="a">Arbitration (International law)</subfield>
+    </datafield>
+    <datafield tag="700" ind1="1" ind2=" ">
+      <subfield code="a">Scott, James Brown,</subfield>
+      <subfield code="d">1866-1943.</subfield>
+    </datafield>
+    <datafield tag="903" ind1=" " ind2="5">
+      <subfield code="a">Google</subfield>
+      <subfield code="d">20140715</subfield>
+      <subfield code="p">31924016932497</subfield>
+      <subfield code="x">Google duplicate</subfield>
+    </datafield>
+    <datafield tag="905" ind1=" " ind2=" ">
+      <subfield code="a">19930901120000.0</subfield>
+    </datafield>
+    <datafield tag="948" ind1="2" ind2=" ">
+      <subfield code="a">20060616</subfield>
+      <subfield code="b">x</subfield>
+      <subfield code="d">ys268</subfield>
+      <subfield code="e">lts</subfield>
+      <subfield code="f">?</subfield>
+      <subfield code="h">?</subfield>
+    </datafield>
+  </record>
+  <record>
+    <leader>01684cam a2200385   4500</leader>
+    <controlfield tag="001">63</controlfield>
+    <controlfield tag="005">20141021232327.0</controlfield>
+    <controlfield tag="008">860224s1918    mauaf         000 0 eng  </controlfield>
+    <datafield tag="010" ind1=" " ind2=" ">
+      <subfield code="a">   18008191 </subfield>
+    </datafield>
+    <datafield tag="035" ind1=" " ind2=" ">
+      <subfield code="a">(CStRLIN)NYCX86B22807</subfield>
+    </datafield>
+    <datafield tag="035" ind1=" " ind2=" ">
+      <subfield code="a">(NIC)notisAAA0061</subfield>
+    </datafield>
+    <datafield tag="035" ind1=" " ind2=" ">
+      <subfield code="a">(OCoLC)2832670</subfield>
+    </datafield>
+    <datafield tag="035" ind1=" " ind2=" ">
+      <subfield code="a">63</subfield>
+    </datafield>
+    <datafield tag="040" ind1=" " ind2=" ">
+      <subfield code="a">DLC</subfield>
+      <subfield code="c">NcRS</subfield>
+      <subfield code="d">NcRS</subfield>
+      <subfield code="d">MnU</subfield>
+      <subfield code="d">CStRLIN</subfield>
+      <subfield code="d">NIC</subfield>
+    </datafield>
+    <datafield tag="043" ind1=" " ind2=" ">
+      <subfield code="a">n-us-va</subfield>
+      <subfield code="a">n-us-md</subfield>
+    </datafield>
+    <datafield tag="050" ind1="0" ind2=" ">
+      <subfield code="a">NA7235.M3</subfield>
+      <subfield code="b">W7</subfield>
+    </datafield>
+    <datafield tag="100" ind1="1" ind2=" ">
+      <subfield code="a">Worthington, Addison Foard,</subfield>
+      <subfield code="d">1889-</subfield>
+    </datafield>
+    <datafield tag="245" ind1="1" ind2="0">
+      <subfield code="a">Twelve old houses west of Chesapeake Bay;</subfield>
+      <subfield code="c">measured drawings and text by Addison F. Worthington.</subfield>
+    </datafield>
+    <datafield tag="260" ind1=" " ind2=" ">
+      <subfield code="a">Boston, Mass.,</subfield>
+      <subfield code="b">Rogers and Manson Company,</subfield>
+      <subfield code="c">1918.</subfield>
+    </datafield>
+    <datafield tag="300" ind1=" " ind2=" ">
+      <subfield code="a">51 p. incl. illus., 24 pl.</subfield>
+      <subfield code="c">28 cm.</subfield>
+    </datafield>
+    <datafield tag="490" ind1="1" ind2=" ">
+      <subfield code="a">The monograph series on subjects pertaining to architecture &amp; allied interests</subfield>
+    </datafield>
+    <datafield tag="500" ind1=" " ind2=" ">
+      <subfield code="a">"Edited and published with the purpose of furthering a wider knowledge of the beautiful forms of domestic architecture developed during the time of the colonies and the early days of the republic."</subfield>
+    </datafield>
+    <datafield tag="650" ind1=" " ind2="0">
+      <subfield code="a">Architecture, Colonial</subfield>
+    </datafield>
+    <datafield tag="650" ind1=" " ind2="0">
+      <subfield code="a">Architecture, Colonial</subfield>
+      <subfield code="z">Maryland.</subfield>
+    </datafield>
+    <datafield tag="650" ind1=" " ind2="0">
+      <subfield code="a">Architecture, Domestic</subfield>
+      <subfield code="z">Maryland</subfield>
+    </datafield>
+    <datafield tag="650" ind1=" " ind2="0">
+      <subfield code="a">Architecture, Domestic</subfield>
+      <subfield code="z">Virginia</subfield>
+    </datafield>
+    <datafield tag="650" ind1=" " ind2="7">
+      <subfield code="a">Architecture, Colonial</subfield>
+      <subfield code="2">fast</subfield>
+      <subfield code="0">(OCoLC)fst00813657</subfield>
+    </datafield>
+    <datafield tag="650" ind1=" " ind2="7">
+      <subfield code="a">Architecture, Domestic</subfield>
+      <subfield code="2">fast</subfield>
+      <subfield code="0">(OCoLC)fst00813666</subfield>
+    </datafield>
+    <datafield tag="651" ind1=" " ind2="7">
+      <subfield code="a">Maryland</subfield>
+      <subfield code="2">fast</subfield>
+      <subfield code="0">(OCoLC)fst01204739</subfield>
+    </datafield>
+    <datafield tag="651" ind1=" " ind2="7">
+      <subfield code="a">Virginia</subfield>
+      <subfield code="2">fast</subfield>
+      <subfield code="0">(OCoLC)fst01204597</subfield>
+    </datafield>
+    <datafield tag="830" ind1=" " ind2="4">
+      <subfield code="a">The monograph series on subjects pertaining to architecture &amp; allied interests</subfield>
+    </datafield>
+    <datafield tag="903" ind1=" " ind2=" ">
+      <subfield code="a">Kirtas/Annex</subfield>
+      <subfield code="d">20080229</subfield>
+      <subfield code="p">31924014757904</subfield>
+    </datafield>
+    <datafield tag="905" ind1=" " ind2=" ">
+      <subfield code="a">19880603120000.0</subfield>
+    </datafield>
+    <datafield tag="948" ind1="2" ind2=" ">
+      <subfield code="a">20141016</subfield>
+      <subfield code="b">m</subfield>
+      <subfield code="d">batch</subfield>
+      <subfield code="e">lts</subfield>
+      <subfield code="x">addfast</subfield>
+    </datafield>
+    <datafield tag="950" ind1=" " ind2=" ">
+      <subfield code="l">FINE</subfield>
+      <subfield code="a">NA7235.M3</subfield>
+      <subfield code="b">W7</subfield>
+      <subfield code="f">BASIC</subfield>
+      <subfield code="i">02/24/86 N</subfield>
+    </datafield>
+  </record>
+  <record>
+    <leader>01142cam a2200325   4500</leader>
+    <controlfield tag="001">64</controlfield>
+    <controlfield tag="005">20141021232328.0</controlfield>
+    <controlfield tag="008">860116s1963    sp ef         000 0 spa  </controlfield>
+    <datafield tag="035" ind1=" " ind2=" ">
+      <subfield code="a">(CStRLIN)NYCX86B6711</subfield>
+    </datafield>
+    <datafield tag="035" ind1=" " ind2=" ">
+      <subfield code="a">(NIC)notisAAA0062</subfield>
+    </datafield>
+    <datafield tag="035" ind1=" " ind2=" ">
+      <subfield code="a">(OCoLC)1022836</subfield>
+    </datafield>
+    <datafield tag="035" ind1=" " ind2=" ">
+      <subfield code="a">64</subfield>
+    </datafield>
+    <datafield tag="040" ind1=" " ind2=" ">
+      <subfield code="d">NIC</subfield>
+    </datafield>
+    <datafield tag="043" ind1=" " ind2=" ">
+      <subfield code="a">e-sp---</subfield>
+    </datafield>
+    <datafield tag="100" ind1="1" ind2=" ">
+      <subfield code="a">Pita Andrade, José Manuel.</subfield>
+    </datafield>
+    <datafield tag="245" ind1="1" ind2="0">
+      <subfield code="a">Arte Asturiano.</subfield>
+    </datafield>
+    <datafield tag="260" ind1=" " ind2=" ">
+      <subfield code="a">Madrid,</subfield>
+      <subfield code="b">Instituto Diego Velázquez,</subfield>
+      <subfield code="c">1963.</subfield>
+    </datafield>
+    <datafield tag="300" ind1=" " ind2=" ">
+      <subfield code="a">46 p.</subfield>
+      <subfield code="b">48 plates, plans.</subfield>
+      <subfield code="c">23 cm.</subfield>
+    </datafield>
+    <datafield tag="490" ind1="1" ind2=" ">
+      <subfield code="a">Artes y artistas</subfield>
+    </datafield>
+    <datafield tag="650" ind1=" " ind2="0">
+      <subfield code="a">Church architecture</subfield>
+      <subfield code="z">Spain</subfield>
+      <subfield code="z">Asturias de Santillana</subfield>
+    </datafield>
+    <datafield tag="650" ind1=" " ind2="0">
+      <subfield code="a">Architecture, Romanesque</subfield>
+      <subfield code="z">Spain</subfield>
+      <subfield code="z">Asturias de Santillana</subfield>
+    </datafield>
+    <datafield tag="650" ind1=" " ind2="0">
+      <subfield code="a">Art, Romanesque</subfield>
+      <subfield code="z">Spain</subfield>
+      <subfield code="z">Asturias de Santillana</subfield>
+    </datafield>
+    <datafield tag="650" ind1=" " ind2="7">
+      <subfield code="a">Architecture, Romanesque</subfield>
+      <subfield code="2">fast</subfield>
+      <subfield code="0">(OCoLC)fst00813938</subfield>
+    </datafield>
+    <datafield tag="650" ind1=" " ind2="7">
+      <subfield code="a">Art, Romanesque</subfield>
+      <subfield code="2">fast</subfield>
+      <subfield code="0">(OCoLC)fst00816818</subfield>
+    </datafield>
+    <datafield tag="650" ind1=" " ind2="7">
+      <subfield code="a">Church architecture</subfield>
+      <subfield code="2">fast</subfield>
+      <subfield code="0">(OCoLC)fst00860550</subfield>
+    </datafield>
+    <datafield tag="651" ind1=" " ind2="7">
+      <subfield code="a">Spain</subfield>
+      <subfield code="z">Asturias de Santillana</subfield>
+      <subfield code="2">fast</subfield>
+      <subfield code="0">(OCoLC)fst01207656</subfield>
+    </datafield>
+    <datafield tag="830" ind1=" " ind2="0">
+      <subfield code="a">Artes y artistas.</subfield>
+    </datafield>
+    <datafield tag="905" ind1=" " ind2=" ">
+      <subfield code="a">19880603120000.0</subfield>
+    </datafield>
+    <datafield tag="948" ind1="2" ind2=" ">
+      <subfield code="a">20141016</subfield>
+      <subfield code="b">m</subfield>
+      <subfield code="d">batch</subfield>
+      <subfield code="e">lts</subfield>
+      <subfield code="x">addfast</subfield>
+    </datafield>
+    <datafield tag="950" ind1=" " ind2=" ">
+      <subfield code="l">FINE</subfield>
+      <subfield code="a">NA5809.A85</subfield>
+      <subfield code="b">P68</subfield>
+      <subfield code="f">BASIC</subfield>
+      <subfield code="i">01/16/86 N</subfield>
+    </datafield>
+  </record>
+  <record>
+    <leader>01155cam a2200313   4500</leader>
+    <controlfield tag="001">65</controlfield>
+    <controlfield tag="005">20141021232328.0</controlfield>
+    <controlfield tag="008">851126r19691913nyu           100 0 eng  </controlfield>
+    <datafield tag="010" ind1=" " ind2=" ">
+      <subfield code="a">   13004133 </subfield>
+    </datafield>
+    <datafield tag="035" ind1=" " ind2=" ">
+      <subfield code="a">(CStRLIN)NYCX85B133303</subfield>
+    </datafield>
+    <datafield tag="035" ind1=" " ind2=" ">
+      <subfield code="a">(NIC)notisAAA0063</subfield>
+    </datafield>
+    <datafield tag="035" ind1=" " ind2=" ">
+      <subfield code="a">(OCoLC)3901256</subfield>
+    </datafield>
+    <datafield tag="035" ind1=" " ind2=" ">
+      <subfield code="a">65</subfield>
+    </datafield>
+    <datafield tag="040" ind1=" " ind2=" ">
+      <subfield code="c">CU-AL</subfield>
+      <subfield code="d">CU-AL</subfield>
+      <subfield code="d">NIC</subfield>
+    </datafield>
+    <datafield tag="050" ind1="0" ind2=" ">
+      <subfield code="a">JX1918</subfield>
+      <subfield code="b">.C5</subfield>
+    </datafield>
+    <datafield tag="100" ind1="1" ind2=" ">
+      <subfield code="a">Choate, Joseph Hodges,</subfield>
+      <subfield code="d">1832-1917.</subfield>
+    </datafield>
+    <datafield tag="245" ind1="1" ind2="4">
+      <subfield code="a">The two Hague conferences,</subfield>
+      <subfield code="c">by Joseph H. Choate.</subfield>
+    </datafield>
+    <datafield tag="260" ind1=" " ind2=" ">
+      <subfield code="a">Princeton,</subfield>
+      <subfield code="b">Princeton University Press; [etc.,etc.]</subfield>
+      <subfield code="c">1913.</subfield>
+    </datafield>
+    <datafield tag="300" ind1=" " ind2=" ">
+      <subfield code="a">xiv, 109 p.</subfield>
+      <subfield code="c">20 cm.</subfield>
+    </datafield>
+    <datafield tag="500" ind1=" " ind2=" ">
+      <subfield code="a">The Stafford Little lectures for 1912.</subfield>
+    </datafield>
+    <datafield tag="500" ind1=" " ind2=" ">
+      <subfield code="a">Reprint edition: New York, Kraus Reprints, 1969.</subfield>
+    </datafield>
+    <datafield tag="611" ind1="2" ind2="0">
+      <subfield code="a">International Peace Conference.</subfield>
+      <subfield code="n">(1st :</subfield>
+      <subfield code="d">1899 :</subfield>
+      <subfield code="c">Hague, Netherlands)</subfield>
+    </datafield>
+    <datafield tag="611" ind1="2" ind2="0">
+      <subfield code="a">International Peace Conference.</subfield>
+      <subfield code="n">(2nd :</subfield>
+      <subfield code="d">1907 :</subfield>
+      <subfield code="c">Hague, Netherlands)</subfield>
+    </datafield>
+    <datafield tag="611" ind1="2" ind2="7">
+      <subfield code="a">International Peace Conference</subfield>
+      <subfield code="2">fast</subfield>
+      <subfield code="0">(OCoLC)fst01405159</subfield>
+    </datafield>
+    <datafield tag="905" ind1=" " ind2=" ">
+      <subfield code="a">19930901120000.0</subfield>
+    </datafield>
+    <datafield tag="948" ind1="2" ind2=" ">
+      <subfield code="a">20061102</subfield>
+      <subfield code="b">y</subfield>
+      <subfield code="d">ekh3</subfield>
+      <subfield code="e">law</subfield>
+    </datafield>
+    <datafield tag="948" ind1="2" ind2=" ">
+      <subfield code="a">20141016</subfield>
+      <subfield code="b">m</subfield>
+      <subfield code="d">batch</subfield>
+      <subfield code="e">lts</subfield>
+      <subfield code="x">addfast</subfield>
+    </datafield>
+    <datafield tag="950" ind1=" " ind2=" ">
+      <subfield code="l">OLIN</subfield>
+      <subfield code="a">JX1918</subfield>
+      <subfield code="b">.C54</subfield>
+      <subfield code="f">BASIC</subfield>
+      <subfield code="h">11/26/85 N</subfield>
+    </datafield>
+    <datafield tag="950" ind1=" " ind2=" ">
+      <subfield code="l">LAW</subfield>
+      <subfield code="a">JX1918</subfield>
+      <subfield code="b">.C54</subfield>
+      <subfield code="f">BASIC</subfield>
+      <subfield code="i">04/08/86 N</subfield>
+    </datafield>
+  </record>
+  <record>
+    <leader>01124cam a2200313 a 4500</leader>
+    <controlfield tag="001">66</controlfield>
+    <controlfield tag="005">20141217161638.0</controlfield>
+    <controlfield tag="008">860224s1986    xx            000 0 eng d</controlfield>
+    <datafield tag="035" ind1=" " ind2=" ">
+      <subfield code="a">(CStRLIN)NYCX86B22808</subfield>
+    </datafield>
+    <datafield tag="035" ind1=" " ind2=" ">
+      <subfield code="a">(NIC)notisAAA0064</subfield>
+    </datafield>
+    <datafield tag="035" ind1=" " ind2=" ">
+      <subfield code="a">(OCoLC)63229604</subfield>
+    </datafield>
+    <datafield tag="035" ind1=" " ind2=" ">
+      <subfield code="a">66</subfield>
+    </datafield>
+    <datafield tag="040" ind1=" " ind2=" ">
+      <subfield code="a">NIC</subfield>
+      <subfield code="c">NIC</subfield>
+    </datafield>
+    <datafield tag="100" ind1="1" ind2=" ">
+      <subfield code="a">Mettam, Kirk Ian,</subfield>
+      <subfield code="d">1960-</subfield>
+    </datafield>
+    <datafield tag="245" ind1="1" ind2="3">
+      <subfield code="a">An experimental investigation of fatigue cracking in welded crane runway girders due to wheel induced stresses /</subfield>
+      <subfield code="c">by Kirk Ian Mettam.</subfield>
+    </datafield>
+    <datafield tag="260" ind1=" " ind2=" ">
+      <subfield code="c">1986.</subfield>
+    </datafield>
+    <datafield tag="300" ind1=" " ind2=" ">
+      <subfield code="a">xv, 192 leaves :</subfield>
+      <subfield code="b">ill. (some col.) ;</subfield>
+      <subfield code="c">28 cm.</subfield>
+    </datafield>
+    <datafield tag="500" ind1=" " ind2=" ">
+      <subfield code="a">Typescript (photocopy)</subfield>
+    </datafield>
+    <datafield tag="502" ind1=" " ind2=" ">
+      <subfield code="b">M.S.</subfield>
+      <subfield code="c">Cornell University</subfield>
+      <subfield code="d">January 1986</subfield>
+    </datafield>
+    <datafield tag="504" ind1=" " ind2=" ">
+      <subfield code="a">Bibliography: leaves 189-192.</subfield>
+    </datafield>
+    <datafield tag="650" ind1=" " ind2="0">
+      <subfield code="a">Metals</subfield>
+      <subfield code="x">Fatigue</subfield>
+    </datafield>
+    <datafield tag="650" ind1=" " ind2="0">
+      <subfield code="a">Girders</subfield>
+      <subfield code="x">Testing</subfield>
+    </datafield>
+    <datafield tag="650" ind1=" " ind2="7">
+      <subfield code="a">Girders</subfield>
+      <subfield code="x">Testing</subfield>
+      <subfield code="2">fast</subfield>
+      <subfield code="0">(OCoLC)fst00942832</subfield>
+    </datafield>
+    <datafield tag="650" ind1=" " ind2="7">
+      <subfield code="a">Metals</subfield>
+      <subfield code="x">Fatigue</subfield>
+      <subfield code="2">fast</subfield>
+      <subfield code="0">(OCoLC)fst01018111</subfield>
+    </datafield>
+    <datafield tag="903" ind1=" " ind2=" ">
+      <subfield code="a">Google</subfield>
+      <subfield code="d">20101116</subfield>
+      <subfield code="p">31924003850017</subfield>
+    </datafield>
+    <datafield tag="905" ind1=" " ind2=" ">
+      <subfield code="a">19880603120000.0</subfield>
+    </datafield>
+    <datafield tag="948" ind1="2" ind2=" ">
+      <subfield code="a">20141016</subfield>
+      <subfield code="b">m</subfield>
+      <subfield code="d">batch</subfield>
+      <subfield code="e">lts</subfield>
+      <subfield code="x">addfast</subfield>
+    </datafield>
+    <datafield tag="950" ind1=" " ind2=" ">
+      <subfield code="l">ARCHV</subfield>
+      <subfield code="b">\Thesis\1986\M595</subfield>
+      <subfield code="i">05/16/86 C ?4820:</subfield>
+    </datafield>
+    <datafield tag="950" ind1=" " ind2=" ">
+      <subfield code="l">ENGR</subfield>
+      <subfield code="b">\Thesis\TA\10\1986\M595+</subfield>
+      <subfield code="i">05/16/86 C ?4820:</subfield>
+    </datafield>
+  </record>
+  <record>
+    <leader>01099cam a2200325 a 4500</leader>
+    <controlfield tag="001">67</controlfield>
+    <controlfield tag="005">20141021232330.0</controlfield>
+    <controlfield tag="008">851210s1953    enk      b    000 0 eng d</controlfield>
+    <datafield tag="010" ind1=" " ind2=" ">
+      <subfield code="a">a  54001395 </subfield>
+    </datafield>
+    <datafield tag="035" ind1=" " ind2=" ">
+      <subfield code="a">(CStRLIN)NYCX85B138652</subfield>
+    </datafield>
+    <datafield tag="035" ind1=" " ind2=" ">
+      <subfield code="a">(NIC)notisAAA0065</subfield>
+    </datafield>
+    <datafield tag="035" ind1=" " ind2=" ">
+      <subfield code="a">(OCoLC)1577329</subfield>
+    </datafield>
+    <datafield tag="035" ind1=" " ind2=" ">
+      <subfield code="a">67</subfield>
+    </datafield>
+    <datafield tag="040" ind1=" " ind2=" ">
+      <subfield code="a">IaU-L</subfield>
+      <subfield code="c">IaU-L</subfield>
+      <subfield code="d">NIC</subfield>
+      <subfield code="d">NIC</subfield>
+    </datafield>
+    <datafield tag="050" ind1="0" ind2=" ">
+      <subfield code="a">JX3225</subfield>
+      <subfield code="b">.C45</subfield>
+    </datafield>
+    <datafield tag="050" ind1=" " ind2="4">
+      <subfield code="a">KZ3225.C44</subfield>
+      <subfield code="b">A34 1953</subfield>
+    </datafield>
+    <datafield tag="100" ind1="1" ind2=" ">
+      <subfield code="a">Cheng, Bin,</subfield>
+      <subfield code="d">1921-</subfield>
+    </datafield>
+    <datafield tag="245" ind1="1" ind2="0">
+      <subfield code="a">General principles of law,</subfield>
+      <subfield code="b">as applied by international courts and tribunals;</subfield>
+      <subfield code="c">with a foreword by Georg Schwarzenberger.</subfield>
+    </datafield>
+    <datafield tag="260" ind1=" " ind2=" ">
+      <subfield code="a">London,</subfield>
+      <subfield code="b">Stevens,</subfield>
+      <subfield code="c">1953.</subfield>
+    </datafield>
+    <datafield tag="300" ind1=" " ind2=" ">
+      <subfield code="a">li, 490 p.</subfield>
+      <subfield code="c">26 cm.</subfield>
+    </datafield>
+    <datafield tag="490" ind1="1" ind2=" ">
+      <subfield code="a">The library of world affairs,</subfield>
+      <subfield code="v">no. 21</subfield>
+    </datafield>
+    <datafield tag="504" ind1=" " ind2=" ">
+      <subfield code="a">Bibliography: p. 409-438.</subfield>
+    </datafield>
+    <datafield tag="650" ind1=" " ind2="0">
+      <subfield code="a">International law</subfield>
+    </datafield>
+    <datafield tag="650" ind1=" " ind2="7">
+      <subfield code="a">International law</subfield>
+      <subfield code="2">fast</subfield>
+      <subfield code="0">(OCoLC)fst00976984</subfield>
+    </datafield>
+    <datafield tag="830" ind1=" " ind2="0">
+      <subfield code="a">Library of world affairs ;</subfield>
+      <subfield code="v">no. 21.</subfield>
+    </datafield>
+    <datafield tag="905" ind1=" " ind2=" ">
+      <subfield code="a">19900918120000.0</subfield>
+    </datafield>
+    <datafield tag="948" ind1="2" ind2=" ">
+      <subfield code="a">20070515</subfield>
+      <subfield code="b">y</subfield>
+      <subfield code="d">wml1</subfield>
+      <subfield code="e">law</subfield>
+    </datafield>
+    <datafield tag="948" ind1="2" ind2=" ">
+      <subfield code="a">20141016</subfield>
+      <subfield code="b">m</subfield>
+      <subfield code="d">batch</subfield>
+      <subfield code="e">lts</subfield>
+      <subfield code="x">addfast</subfield>
+    </datafield>
+    <datafield tag="950" ind1=" " ind2=" ">
+      <subfield code="l">OLIN</subfield>
+      <subfield code="a">JX3225</subfield>
+      <subfield code="b">.C51+</subfield>
+      <subfield code="f">BASIC</subfield>
+      <subfield code="h">12/10/85 N</subfield>
+    </datafield>
+    <datafield tag="950" ind1=" " ind2=" ">
+      <subfield code="l">LAW</subfield>
+      <subfield code="a">JX3225</subfield>
+      <subfield code="b">.C51</subfield>
+      <subfield code="f">BASIC</subfield>
+      <subfield code="i">03/12/86 N</subfield>
+    </datafield>
+  </record>
+  <record>
+    <leader>01406cam a22003611  4500</leader>
+    <controlfield tag="001">68</controlfield>
+    <controlfield tag="005">20141021232330.0</controlfield>
+    <controlfield tag="008">860116s1922    nyu           000 0 eng  </controlfield>
+    <datafield tag="010" ind1=" " ind2=" ">
+      <subfield code="a">   22011898 </subfield>
+    </datafield>
+    <datafield tag="035" ind1=" " ind2=" ">
+      <subfield code="a">(CStRLIN)NYCX86B6712</subfield>
+    </datafield>
+    <datafield tag="035" ind1=" " ind2=" ">
+      <subfield code="a">(NIC)notisAAA0066</subfield>
+    </datafield>
+    <datafield tag="035" ind1=" " ind2=" ">
+      <subfield code="a">(OCoLC)1319081</subfield>
+    </datafield>
+    <datafield tag="035" ind1=" " ind2=" ">
+      <subfield code="a">68</subfield>
+    </datafield>
+    <datafield tag="040" ind1=" " ind2=" ">
+      <subfield code="c">NIC</subfield>
+      <subfield code="d">NIC</subfield>
+    </datafield>
+    <datafield tag="043" ind1=" " ind2=" ">
+      <subfield code="a">e-ie---</subfield>
+    </datafield>
+    <datafield tag="050" ind1="0" ind2=" ">
+      <subfield code="a">JX1907</subfield>
+      <subfield code="b">.A8 no.173</subfield>
+    </datafield>
+    <datafield tag="110" ind1="2" ind2=" ">
+      <subfield code="a">American Association for International Conciliation.</subfield>
+    </datafield>
+    <datafield tag="245" ind1="1" ind2="3">
+      <subfield code="a">I. Correspondence between Mr. Lloyd George and Sir James Craig on the position of Ulster.</subfield>
+      <subfield code="b">II. Articles of agreement establishing the Irish Free State.  III. Irish Free State (agreement) bill ...</subfield>
+    </datafield>
+    <datafield tag="260" ind1=" " ind2=" ">
+      <subfield code="a">New York City,</subfield>
+      <subfield code="a">Greenwich, Conn.,</subfield>
+      <subfield code="b">American Association for International Conciliation</subfield>
+      <subfield code="c">[1922]</subfield>
+    </datafield>
+    <datafield tag="300" ind1=" " ind2=" ">
+      <subfield code="a">36 p.</subfield>
+      <subfield code="c">20 cm.</subfield>
+    </datafield>
+    <datafield tag="490" ind1="1" ind2=" ">
+      <subfield code="a">International conciliation,</subfield>
+      <subfield code="v">no. 173</subfield>
+    </datafield>
+    <datafield tag="651" ind1=" " ind2="0">
+      <subfield code="a">Ireland</subfield>
+      <subfield code="x">Politics and government</subfield>
+      <subfield code="y">1910-</subfield>
+    </datafield>
+    <datafield tag="648" ind1=" " ind2="7">
+      <subfield code="a">Since 1910</subfield>
+      <subfield code="2">fast</subfield>
+    </datafield>
+    <datafield tag="650" ind1=" " ind2="7">
+      <subfield code="a">Political science</subfield>
+      <subfield code="2">fast</subfield>
+      <subfield code="0">(OCoLC)fst01069781</subfield>
+    </datafield>
+    <datafield tag="651" ind1=" " ind2="7">
+      <subfield code="a">Ireland</subfield>
+      <subfield code="2">fast</subfield>
+      <subfield code="0">(OCoLC)fst01205427</subfield>
+    </datafield>
+    <datafield tag="700" ind1="1" ind2=" ">
+      <subfield code="a">Lloyd George, David,</subfield>
+      <subfield code="d">1863-1945.</subfield>
+    </datafield>
+    <datafield tag="700" ind1="1" ind2=" ">
+      <subfield code="a">Craig, James,</subfield>
+      <subfield code="c">Sir</subfield>
+      <subfield code="d">1861-1933.</subfield>
+    </datafield>
+    <datafield tag="740" ind1="0" ind2=" ">
+      <subfield code="a">Irish Free State.</subfield>
+    </datafield>
+    <datafield tag="830" ind1=" " ind2="0">
+      <subfield code="a">International conciliation (Monthly) ;</subfield>
+      <subfield code="v">no. 173</subfield>
+    </datafield>
+    <datafield tag="905" ind1=" " ind2=" ">
+      <subfield code="a">19980409120000.0</subfield>
+    </datafield>
+    <datafield tag="948" ind1="2" ind2=" ">
+      <subfield code="a">20060526</subfield>
+      <subfield code="b">y</subfield>
+      <subfield code="d">njm5</subfield>
+      <subfield code="e">law</subfield>
+    </datafield>
+    <datafield tag="948" ind1="2" ind2=" ">
+      <subfield code="a">20141016</subfield>
+      <subfield code="b">m</subfield>
+      <subfield code="d">batch</subfield>
+      <subfield code="e">lts</subfield>
+      <subfield code="x">addfast</subfield>
+    </datafield>
+    <datafield tag="950" ind1=" " ind2=" ">
+      <subfield code="l">LAW</subfield>
+      <subfield code="a">JX1906</subfield>
+      <subfield code="b">.A25 No.173</subfield>
+      <subfield code="f">BASIC</subfield>
+      <subfield code="i">01/16/86 N</subfield>
+    </datafield>
+  </record>
+  <record>
+    <leader>01311cam a2200313   4500</leader>
+    <controlfield tag="001">69</controlfield>
+    <controlfield tag="005">20141021232331.0</controlfield>
+    <controlfield tag="008">851126s1915    dcu           000 0 eng d</controlfield>
+    <datafield tag="010" ind1=" " ind2=" ">
+      <subfield code="a">   15016036 </subfield>
+    </datafield>
+    <datafield tag="035" ind1=" " ind2=" ">
+      <subfield code="a">(CStRLIN)NYCX85B133305</subfield>
+    </datafield>
+    <datafield tag="035" ind1=" " ind2=" ">
+      <subfield code="a">(NIC)notisAAA0067</subfield>
+    </datafield>
+    <datafield tag="035" ind1=" " ind2=" ">
+      <subfield code="a">(OCoLC)1289389</subfield>
+    </datafield>
+    <datafield tag="035" ind1=" " ind2=" ">
+      <subfield code="a">69</subfield>
+    </datafield>
+    <datafield tag="040" ind1=" " ind2=" ">
+      <subfield code="a">IaU-L</subfield>
+      <subfield code="c">IaU-L</subfield>
+      <subfield code="d">NIC</subfield>
+    </datafield>
+    <datafield tag="050" ind1="0" ind2=" ">
+      <subfield code="a">JX1906</subfield>
+      <subfield code="b">.A3 no.4</subfield>
+    </datafield>
+    <datafield tag="111" ind1="2" ind2=" ">
+      <subfield code="a">International Peace Conference.</subfield>
+      <subfield code="n">(1st :</subfield>
+      <subfield code="d">1899 :</subfield>
+      <subfield code="c">Hague, Netherlands)</subfield>
+    </datafield>
+    <datafield tag="245" ind1="1" ind2="4">
+      <subfield code="a">The Hague conventions of 1899 (I) and 1907 (I) for the pacific settlement of international disputes.</subfield>
+    </datafield>
+    <datafield tag="260" ind1=" " ind2=" ">
+      <subfield code="a">Washington, D.C.,</subfield>
+      <subfield code="b">The Endowment,</subfield>
+      <subfield code="c">1915.</subfield>
+    </datafield>
+    <datafield tag="300" ind1=" " ind2=" ">
+      <subfield code="a">iv, 48 p.</subfield>
+      <subfield code="c">25 cm.</subfield>
+    </datafield>
+    <datafield tag="490" ind1="1" ind2=" ">
+      <subfield code="a">Carnegie Endowment for International Peace.  Division of International Law.  Pamphlet,</subfield>
+      <subfield code="v">no. 4</subfield>
+    </datafield>
+    <datafield tag="650" ind1=" " ind2="0">
+      <subfield code="a">Arbitration (International law)</subfield>
+    </datafield>
+    <datafield tag="650" ind1=" " ind2="7">
+      <subfield code="a">Arbitration (International law)</subfield>
+      <subfield code="2">fast</subfield>
+      <subfield code="0">(OCoLC)fst01761738</subfield>
+    </datafield>
+    <datafield tag="711" ind1="2" ind2=" ">
+      <subfield code="a">International Peace Conference.</subfield>
+      <subfield code="n">(2nd :</subfield>
+      <subfield code="d">1907 :</subfield>
+      <subfield code="c">Hague, Netherlands)</subfield>
+    </datafield>
+    <datafield tag="830" ind1=" " ind2="0">
+      <subfield code="a">Pamphlet series of the Carnegie Endowment for International Peace, Division of International Law ;</subfield>
+      <subfield code="v">no. 4.</subfield>
+    </datafield>
+    <datafield tag="905" ind1=" " ind2=" ">
+      <subfield code="a">19930901120000.0</subfield>
+    </datafield>
+    <datafield tag="948" ind1="2" ind2=" ">
+      <subfield code="a">20060707</subfield>
+      <subfield code="b">y</subfield>
+      <subfield code="d">njm5</subfield>
+      <subfield code="e">law</subfield>
+    </datafield>
+    <datafield tag="948" ind1="2" ind2=" ">
+      <subfield code="a">20141016</subfield>
+      <subfield code="b">m</subfield>
+      <subfield code="d">batch</subfield>
+      <subfield code="e">lts</subfield>
+      <subfield code="x">addfast</subfield>
+    </datafield>
+    <datafield tag="950" ind1=" " ind2=" ">
+      <subfield code="l">OLIN</subfield>
+      <subfield code="a">JX1906</subfield>
+      <subfield code="b">.A3 no.4</subfield>
+      <subfield code="f">BASIC</subfield>
+      <subfield code="h">11/26/85 N</subfield>
+    </datafield>
+    <datafield tag="950" ind1=" " ind2=" ">
+      <subfield code="l">LAW</subfield>
+      <subfield code="a">JX1906</subfield>
+      <subfield code="b">.A3 no.4</subfield>
+      <subfield code="f">BASIC</subfield>
+      <subfield code="i">01/21/86 N</subfield>
+    </datafield>
+  </record>
+  <record>
+    <leader>01281cam a22003371  4500</leader>
+    <controlfield tag="001">70</controlfield>
+    <controlfield tag="005">20141021232331.0</controlfield>
+    <controlfield tag="008">860224s1953    nyuab         000 0 eng u</controlfield>
+    <datafield tag="010" ind1=" " ind2=" ">
+      <subfield code="a">   53011311 </subfield>
+    </datafield>
+    <datafield tag="035" ind1=" " ind2=" ">
+      <subfield code="a">(CStRLIN)NYCX86B22809</subfield>
+    </datafield>
+    <datafield tag="035" ind1=" " ind2=" ">
+      <subfield code="a">(NIC)notisAAA0068</subfield>
+    </datafield>
+    <datafield tag="035" ind1=" " ind2=" ">
+      <subfield code="a">(OCoLC)557575</subfield>
+    </datafield>
+    <datafield tag="035" ind1=" " ind2=" ">
+      <subfield code="a">70</subfield>
+    </datafield>
+    <datafield tag="040" ind1=" " ind2=" ">
+      <subfield code="a">DLC</subfield>
+      <subfield code="c">ODaWU</subfield>
+      <subfield code="d">NjR</subfield>
+      <subfield code="d">CStRLIN</subfield>
+      <subfield code="d">NIC</subfield>
+    </datafield>
+    <datafield tag="050" ind1="0" ind2=" ">
+      <subfield code="a">S419</subfield>
+      <subfield code="b">.C82</subfield>
+    </datafield>
+    <datafield tag="100" ind1="1" ind2=" ">
+      <subfield code="a">Curwen, E. Cecil</subfield>
+      <subfield code="q">(Eliot Cecil),</subfield>
+      <subfield code="d">1895-</subfield>
+    </datafield>
+    <datafield tag="245" ind1="1" ind2="0">
+      <subfield code="a">Plough and pasture, the early history of farming.</subfield>
+      <subfield code="b">Pt. 1: Prehistoric farming of Europe and the Near East,</subfield>
+      <subfield code="c">by E. Cecil Curwen.  Pt 2: Farming of non-European peoples, by Gudmund Hatt.</subfield>
+    </datafield>
+    <datafield tag="260" ind1=" " ind2=" ">
+      <subfield code="a">New York,</subfield>
+      <subfield code="b">H. Schuman</subfield>
+      <subfield code="c">[1953]</subfield>
+    </datafield>
+    <datafield tag="300" ind1=" " ind2=" ">
+      <subfield code="a">xi, 329 p.</subfield>
+      <subfield code="b">illus., maps.</subfield>
+      <subfield code="c">22 cm.</subfield>
+    </datafield>
+    <datafield tag="490" ind1="1" ind2=" ">
+      <subfield code="a">The Life of science library, no. 27</subfield>
+    </datafield>
+    <datafield tag="500" ind1=" " ind2=" ">
+      <subfield code="a">Pt. 1 published in 1946 under title: Plough and pasture.</subfield>
+    </datafield>
+    <datafield tag="504" ind1=" " ind2=" ">
+      <subfield code="a">Bibliography: p. 143-147, 309-320.</subfield>
+    </datafield>
+    <datafield tag="504" ind1=" " ind2=" ">
+      <subfield code="a">Includes bibliography.</subfield>
+    </datafield>
+    <datafield tag="650" ind1=" " ind2="0">
+      <subfield code="a">Agriculture</subfield>
+      <subfield code="x">History</subfield>
+    </datafield>
+    <datafield tag="650" ind1=" " ind2="7">
+      <subfield code="a">Agriculture</subfield>
+      <subfield code="2">fast</subfield>
+      <subfield code="0">(OCoLC)fst00801355</subfield>
+    </datafield>
+    <datafield tag="655" ind1=" " ind2="7">
+      <subfield code="a">History</subfield>
+      <subfield code="2">fast</subfield>
+      <subfield code="0">(OCoLC)fst01411628</subfield>
+    </datafield>
+    <datafield tag="700" ind1="1" ind2=" ">
+      <subfield code="a">Hatt, Gudmund,</subfield>
+      <subfield code="d">1884-</subfield>
+    </datafield>
+    <datafield tag="830" ind1=" " ind2="0">
+      <subfield code="a">Life of science library.</subfield>
+      <subfield code="v">no. 27</subfield>
+    </datafield>
+    <datafield tag="905" ind1=" " ind2=" ">
+      <subfield code="a">19910430120000.0</subfield>
+    </datafield>
+    <datafield tag="948" ind1="2" ind2=" ">
+      <subfield code="a">20141016</subfield>
+      <subfield code="b">m</subfield>
+      <subfield code="d">batch</subfield>
+      <subfield code="e">lts</subfield>
+      <subfield code="x">addfast</subfield>
+    </datafield>
+    <datafield tag="950" ind1=" " ind2=" ">
+      <subfield code="l">MANN</subfield>
+      <subfield code="a">S419</subfield>
+      <subfield code="b">.C98 1953</subfield>
+      <subfield code="f">BASIC</subfield>
+      <subfield code="i">02/24/86 N</subfield>
+    </datafield>
+  </record>
+  <record>
+    <leader>01263cam a2200337 a 4500</leader>
+    <controlfield tag="001">71</controlfield>
+    <controlfield tag="005">20141021232331.0</controlfield>
+    <controlfield tag="008">851210s1961    rura          000 0 eng  </controlfield>
+    <datafield tag="010" ind1=" " ind2=" ">
+      <subfield code="a">   62041083 </subfield>
+    </datafield>
+    <datafield tag="035" ind1=" " ind2=" ">
+      <subfield code="a">(CStRLIN)NYCX85B138654</subfield>
+    </datafield>
+    <datafield tag="035" ind1=" " ind2=" ">
+      <subfield code="a">(NIC)notisAAA0069</subfield>
+    </datafield>
+    <datafield tag="035" ind1=" " ind2=" ">
+      <subfield code="a">(OCoLC)1571291</subfield>
+    </datafield>
+    <datafield tag="035" ind1=" " ind2=" ">
+      <subfield code="a">71</subfield>
+    </datafield>
+    <datafield tag="040" ind1=" " ind2=" ">
+      <subfield code="c">NjR-L</subfield>
+      <subfield code="d">NIC</subfield>
+    </datafield>
+    <datafield tag="041" ind1="1" ind2=" ">
+      <subfield code="a">eng</subfield>
+      <subfield code="h">rus</subfield>
+    </datafield>
+    <datafield tag="050" ind1="0" ind2=" ">
+      <subfield code="a">JX3695.R9</subfield>
+      <subfield code="b">A653</subfield>
+    </datafield>
+    <datafield tag="050" ind1=" " ind2="4">
+      <subfield code="a">KZ1242</subfield>
+      <subfield code="b">.I58 1961</subfield>
+    </datafield>
+    <datafield tag="110" ind1="2" ind2=" ">
+      <subfield code="a">Institut gosudarstva i prava (Akademii︠a︡ nauk SSSR)</subfield>
+    </datafield>
+    <datafield tag="240" ind1="1" ind2="0">
+      <subfield code="a">Mezhdunarodnoe pravo.</subfield>
+      <subfield code="l">English</subfield>
+    </datafield>
+    <datafield tag="245" ind1="1" ind2="0">
+      <subfield code="a">International law :</subfield>
+      <subfield code="b">a textbook for use in law schools /</subfield>
+      <subfield code="c">[Y.A. Korovin, and others ; transl. from the Russian by D. Ogden ; edit. by F.I. Kozhevnikov]</subfield>
+    </datafield>
+    <datafield tag="260" ind1=" " ind2=" ">
+      <subfield code="a">Moscow :</subfield>
+      <subfield code="b">Foreign Languages Pub. House,</subfield>
+      <subfield code="c">[1961?].</subfield>
+    </datafield>
+    <datafield tag="300" ind1=" " ind2=" ">
+      <subfield code="a">477 p. :</subfield>
+      <subfield code="b">ill. ;</subfield>
+      <subfield code="c">23 cm.</subfield>
+    </datafield>
+    <datafield tag="500" ind1=" " ind2=" ">
+      <subfield code="a">At head of title: Academy of Sciences of the U.S.S.R. Institute of State and Law.</subfield>
+    </datafield>
+    <datafield tag="650" ind1=" " ind2="0">
+      <subfield code="a">International law.</subfield>
+    </datafield>
+    <datafield tag="650" ind1=" " ind2="7">
+      <subfield code="a">International law</subfield>
+      <subfield code="2">fast</subfield>
+      <subfield code="0">(OCoLC)fst00976984</subfield>
+    </datafield>
+    <datafield tag="700" ind1="1" ind2=" ">
+      <subfield code="a">Kozhevnikov, F. I.</subfield>
+      <subfield code="q">(Fedor Ivanovich).</subfield>
+    </datafield>
+    <datafield tag="905" ind1=" " ind2=" ">
+      <subfield code="a">19960424120000.0</subfield>
+    </datafield>
+    <datafield tag="948" ind1="2" ind2=" ">
+      <subfield code="a">20070719</subfield>
+      <subfield code="b">y</subfield>
+      <subfield code="d">wml1</subfield>
+      <subfield code="e">law</subfield>
+    </datafield>
+    <datafield tag="948" ind1="2" ind2=" ">
+      <subfield code="a">20130423</subfield>
+      <subfield code="b">w</subfield>
+      <subfield code="d">nmm64</subfield>
+      <subfield code="e">law</subfield>
+      <subfield code="h">?</subfield>
+    </datafield>
+    <datafield tag="948" ind1="2" ind2=" ">
+      <subfield code="a">20141016</subfield>
+      <subfield code="b">m</subfield>
+      <subfield code="d">batch</subfield>
+      <subfield code="e">lts</subfield>
+      <subfield code="x">addfast</subfield>
+    </datafield>
+    <datafield tag="950" ind1=" " ind2=" ">
+      <subfield code="l">OLIN</subfield>
+      <subfield code="a">JX3695.R9</subfield>
+      <subfield code="b">A31 1961</subfield>
+      <subfield code="f">BASIC</subfield>
+      <subfield code="i">12/10/85 N</subfield>
+    </datafield>
+  </record>
+</collection>

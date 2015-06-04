@@ -1,0 +1,1038 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+  <record>
+    <leader>01248cam a2200349   4500</leader>
+    <controlfield tag="001">83</controlfield>
+    <controlfield tag="005">20141021232337.0</controlfield>
+    <controlfield tag="008">860116s1935    fr abef  b    000 0 fre  </controlfield>
+    <datafield tag="010" ind1=" " ind2=" ">
+      <subfield code="a">   35020439 </subfield>
+    </datafield>
+    <datafield tag="035" ind1=" " ind2=" ">
+      <subfield code="a">(CStRLIN)NYCX86B6716</subfield>
+    </datafield>
+    <datafield tag="035" ind1=" " ind2=" ">
+      <subfield code="a">(NIC)notisAAA0081</subfield>
+    </datafield>
+    <datafield tag="035" ind1=" " ind2=" ">
+      <subfield code="a">(OCoLC)371237</subfield>
+    </datafield>
+    <datafield tag="035" ind1=" " ind2=" ">
+      <subfield code="a">83</subfield>
+    </datafield>
+    <datafield tag="040" ind1=" " ind2=" ">
+      <subfield code="d">MiU</subfield>
+      <subfield code="d">NIC</subfield>
+    </datafield>
+    <datafield tag="043" ind1=" " ind2=" ">
+      <subfield code="a">e-sp---</subfield>
+    </datafield>
+    <datafield tag="050" ind1="0" ind2=" ">
+      <subfield code="a">NA5803</subfield>
+      <subfield code="b">.L35</subfield>
+    </datafield>
+    <datafield tag="082" ind1=" " ind2=" ">
+      <subfield code="a">723.56</subfield>
+    </datafield>
+    <datafield tag="100" ind1="1" ind2=" ">
+      <subfield code="a">Lavedan, Pierre,</subfield>
+      <subfield code="d">1885-1982.</subfield>
+    </datafield>
+    <datafield tag="245" ind1="1" ind2="2">
+      <subfield code="a">L'architecture gothique religieuse en Catalogne,</subfield>
+      <subfield code="b">Valence et Baleares; cinquante-quatre planches hors texte, cent douze dessins dans le texte.</subfield>
+    </datafield>
+    <datafield tag="260" ind1=" " ind2=" ">
+      <subfield code="a">Paris,</subfield>
+      <subfield code="b">H. Laurens,</subfield>
+      <subfield code="c">1935.</subfield>
+    </datafield>
+    <datafield tag="300" ind1=" " ind2=" ">
+      <subfield code="a">256 p.</subfield>
+      <subfield code="b">illus. (incl. maps, plans) LIV pl. on 27 l.</subfield>
+      <subfield code="c">27 x 20 cm.</subfield>
+    </datafield>
+    <datafield tag="504" ind1=" " ind2=" ">
+      <subfield code="a">Bibliography: p.7.</subfield>
+    </datafield>
+    <datafield tag="650" ind1=" " ind2="0">
+      <subfield code="a">Church architecture</subfield>
+      <subfield code="z">Catalonia.</subfield>
+    </datafield>
+    <datafield tag="650" ind1=" " ind2="0">
+      <subfield code="a">Church architecture</subfield>
+      <subfield code="z">Spain</subfield>
+      <subfield code="z">Valencia</subfield>
+    </datafield>
+    <datafield tag="650" ind1=" " ind2="0">
+      <subfield code="a">Church architecture</subfield>
+      <subfield code="z">Balearic Islands.</subfield>
+    </datafield>
+    <datafield tag="650" ind1=" " ind2="0">
+      <subfield code="a">Architecture, Gothic</subfield>
+    </datafield>
+    <datafield tag="650" ind1=" " ind2="7">
+      <subfield code="a">Architecture, Gothic</subfield>
+      <subfield code="2">fast</subfield>
+      <subfield code="0">(OCoLC)fst00813758</subfield>
+    </datafield>
+    <datafield tag="650" ind1=" " ind2="7">
+      <subfield code="a">Church architecture</subfield>
+      <subfield code="2">fast</subfield>
+      <subfield code="0">(OCoLC)fst00860550</subfield>
+    </datafield>
+    <datafield tag="651" ind1=" " ind2="7">
+      <subfield code="a">Spain</subfield>
+      <subfield code="z">Valencia</subfield>
+      <subfield code="2">fast</subfield>
+      <subfield code="0">(OCoLC)fst01204165</subfield>
+    </datafield>
+    <datafield tag="905" ind1=" " ind2=" ">
+      <subfield code="a">19880603120000.0</subfield>
+    </datafield>
+    <datafield tag="948" ind1="2" ind2=" ">
+      <subfield code="a">20141016</subfield>
+      <subfield code="b">m</subfield>
+      <subfield code="d">batch</subfield>
+      <subfield code="e">lts</subfield>
+      <subfield code="x">addfast</subfield>
+    </datafield>
+    <datafield tag="950" ind1=" " ind2=" ">
+      <subfield code="l">FINE</subfield>
+      <subfield code="a">NA5803</subfield>
+      <subfield code="b">.L39</subfield>
+      <subfield code="f">BASIC</subfield>
+      <subfield code="i">01/16/86 N</subfield>
+    </datafield>
+  </record>
+  <record>
+    <leader>00994cam a2200325 a 4500</leader>
+    <controlfield tag="001">84</controlfield>
+    <controlfield tag="005">20141021232338.0</controlfield>
+    <controlfield tag="008">860205s1965    ii       b    000 0 eng d</controlfield>
+    <datafield tag="025" ind1=" " ind2=" ">
+      <subfield code="a">PL480:I-E-4807</subfield>
+    </datafield>
+    <datafield tag="035" ind1=" " ind2=" ">
+      <subfield code="a">(CStRLIN)NYCX86B14379</subfield>
+    </datafield>
+    <datafield tag="035" ind1=" " ind2=" ">
+      <subfield code="a">(NIC)notisAAA0082</subfield>
+    </datafield>
+    <datafield tag="035" ind1=" " ind2=" ">
+      <subfield code="a">(OCoLC)7349160</subfield>
+    </datafield>
+    <datafield tag="035" ind1=" " ind2=" ">
+      <subfield code="a">84</subfield>
+    </datafield>
+    <datafield tag="040" ind1=" " ind2=" ">
+      <subfield code="c">CU-AL</subfield>
+      <subfield code="d">NIC</subfield>
+      <subfield code="d">NIC</subfield>
+    </datafield>
+    <datafield tag="050" ind1="0" ind2=" ">
+      <subfield code="a">JX3695.I5</subfield>
+      <subfield code="b">P33</subfield>
+    </datafield>
+    <datafield tag="050" ind1=" " ind2="4">
+      <subfield code="a">KZ3405.P38</subfield>
+      <subfield code="b">A37 1965</subfield>
+    </datafield>
+    <datafield tag="082" ind1=" " ind2=" ">
+      <subfield code="a">341</subfield>
+    </datafield>
+    <datafield tag="100" ind1="1" ind2=" ">
+      <subfield code="a">Pavithran, A. K.</subfield>
+    </datafield>
+    <datafield tag="245" ind1="1" ind2="0">
+      <subfield code="a">Substance of public international law, western and eastern</subfield>
+      <subfield code="c">[by] A. K. Pavithran.</subfield>
+    </datafield>
+    <datafield tag="250" ind1=" " ind2=" ">
+      <subfield code="a">1st ed.</subfield>
+    </datafield>
+    <datafield tag="260" ind1=" " ind2=" ">
+      <subfield code="a">Madras,</subfield>
+      <subfield code="b">A. P. Rajendran,</subfield>
+      <subfield code="c">1965.</subfield>
+    </datafield>
+    <datafield tag="300" ind1=" " ind2=" ">
+      <subfield code="a">xviii, 783 p.</subfield>
+      <subfield code="c">22 cm.</subfield>
+    </datafield>
+    <datafield tag="504" ind1=" " ind2=" ">
+      <subfield code="a">Includes bibliographies.</subfield>
+    </datafield>
+    <datafield tag="650" ind1=" " ind2="0">
+      <subfield code="a">International law</subfield>
+    </datafield>
+    <datafield tag="650" ind1=" " ind2="7">
+      <subfield code="a">International law</subfield>
+      <subfield code="2">fast</subfield>
+      <subfield code="0">(OCoLC)fst00976984</subfield>
+    </datafield>
+    <datafield tag="905" ind1=" " ind2=" ">
+      <subfield code="a">19880603120000.0</subfield>
+    </datafield>
+    <datafield tag="948" ind1="2" ind2=" ">
+      <subfield code="a">20070716</subfield>
+      <subfield code="b">y</subfield>
+      <subfield code="d">wml1</subfield>
+      <subfield code="e">law</subfield>
+    </datafield>
+    <datafield tag="948" ind1="2" ind2=" ">
+      <subfield code="a">20130301</subfield>
+      <subfield code="b">w</subfield>
+      <subfield code="d">nmm64</subfield>
+      <subfield code="e">law</subfield>
+      <subfield code="h">?</subfield>
+    </datafield>
+    <datafield tag="948" ind1="2" ind2=" ">
+      <subfield code="a">20141016</subfield>
+      <subfield code="b">m</subfield>
+      <subfield code="d">batch</subfield>
+      <subfield code="e">lts</subfield>
+      <subfield code="x">addfast</subfield>
+    </datafield>
+    <datafield tag="950" ind1=" " ind2=" ">
+      <subfield code="l">LAW</subfield>
+      <subfield code="a">JX3695.I4</subfield>
+      <subfield code="b">P33</subfield>
+      <subfield code="f">BASIC</subfield>
+      <subfield code="i">02/05/86 N</subfield>
+    </datafield>
+  </record>
+  <record>
+    <leader>01572cam a2200457 a 4500</leader>
+    <controlfield tag="001">85</controlfield>
+    <controlfield tag="005">20141021232338.0</controlfield>
+    <controlfield tag="008">851210s1962    nyua     b    000 0 eng  </controlfield>
+    <datafield tag="010" ind1=" " ind2=" ">
+      <subfield code="a">   62013751/L </subfield>
+    </datafield>
+    <datafield tag="035" ind1=" " ind2=" ">
+      <subfield code="a">(CStRLIN)NYCX85B138661</subfield>
+    </datafield>
+    <datafield tag="035" ind1=" " ind2=" ">
+      <subfield code="a">(CStRLIN)NYCX89B38573</subfield>
+    </datafield>
+    <datafield tag="035" ind1=" " ind2=" ">
+      <subfield code="a">(NIC)notisAAA0083</subfield>
+    </datafield>
+    <datafield tag="035" ind1=" " ind2=" ">
+      <subfield code="a">(NIC)notisAHY3953</subfield>
+    </datafield>
+    <datafield tag="035" ind1=" " ind2=" ">
+      <subfield code="a">(OCoLC)505223</subfield>
+    </datafield>
+    <datafield tag="035" ind1=" " ind2=" ">
+      <subfield code="a">85</subfield>
+    </datafield>
+    <datafield tag="040" ind1=" " ind2=" ">
+      <subfield code="a">DLC</subfield>
+      <subfield code="c">ODaWU</subfield>
+      <subfield code="d">OCoLC</subfield>
+      <subfield code="d">HU</subfield>
+      <subfield code="d">DLC</subfield>
+      <subfield code="d">NIC</subfield>
+    </datafield>
+    <datafield tag="042" ind1=" " ind2=" ">
+      <subfield code="a">premarc</subfield>
+    </datafield>
+    <datafield tag="043" ind1=" " ind2=" ">
+      <subfield code="a">e-ur---</subfield>
+    </datafield>
+    <datafield tag="050" ind1="0" ind2="0">
+      <subfield code="a">JX1977.2.R8</subfield>
+      <subfield code="b">D2</subfield>
+    </datafield>
+    <datafield tag="050" ind1=" " ind2="4">
+      <subfield code="a">JZ4997.5.S65</subfield>
+      <subfield code="b">D35 1962</subfield>
+    </datafield>
+    <datafield tag="082" ind1=" " ind2=" ">
+      <subfield code="a">341.13947</subfield>
+    </datafield>
+    <datafield tag="100" ind1="1" ind2=" ">
+      <subfield code="a">Dallin, Alexander,</subfield>
+      <subfield code="d">1924-2000.</subfield>
+    </datafield>
+    <datafield tag="245" ind1="1" ind2="4">
+      <subfield code="a">The Soviet Union at the United Nations :</subfield>
+      <subfield code="b">an inquiry into Soviet motives and objectives /</subfield>
+      <subfield code="c">by Alexander Dallin.</subfield>
+    </datafield>
+    <datafield tag="260" ind1=" " ind2=" ">
+      <subfield code="a">New York :</subfield>
+      <subfield code="b">F.A. Praeger,</subfield>
+      <subfield code="c">1962.</subfield>
+    </datafield>
+    <datafield tag="300" ind1=" " ind2=" ">
+      <subfield code="a">244 p. :</subfield>
+      <subfield code="b">ill. ;</subfield>
+      <subfield code="c">21 cm.</subfield>
+    </datafield>
+    <datafield tag="440" ind1=" " ind2="0">
+      <subfield code="a">Praeger publications in Russian history and world communism ;</subfield>
+      <subfield code="v">no. 106</subfield>
+    </datafield>
+    <datafield tag="500" ind1=" " ind2=" ">
+      <subfield code="a">Books that matter.</subfield>
+    </datafield>
+    <datafield tag="504" ind1=" " ind2=" ">
+      <subfield code="a">Includes bibliographical references (p. 217-245).</subfield>
+    </datafield>
+    <datafield tag="610" ind1="2" ind2="0">
+      <subfield code="a">United Nations</subfield>
+      <subfield code="z">Soviet Union.</subfield>
+    </datafield>
+    <datafield tag="610" ind1="2" ind2="7">
+      <subfield code="a">United Nations</subfield>
+      <subfield code="2">fast</subfield>
+      <subfield code="0">(OCoLC)fst00530351</subfield>
+    </datafield>
+    <datafield tag="651" ind1=" " ind2="7">
+      <subfield code="a">Soviet Union</subfield>
+      <subfield code="2">fast</subfield>
+      <subfield code="0">(OCoLC)fst01210281</subfield>
+    </datafield>
+    <datafield tag="899" ind1=" " ind2=" ">
+      <subfield code="a">tsin20091130</subfield>
+    </datafield>
+    <datafield tag="905" ind1=" " ind2=" ">
+      <subfield code="a">19880603120000.0</subfield>
+    </datafield>
+    <datafield tag="905" ind1=" " ind2=" ">
+      <subfield code="a">19440414120000.0</subfield>
+    </datafield>
+    <datafield tag="948" ind1="2" ind2=" ">
+      <subfield code="a">20080422</subfield>
+      <subfield code="b">y</subfield>
+      <subfield code="d">jmp8</subfield>
+      <subfield code="e">law</subfield>
+    </datafield>
+    <datafield tag="948" ind1="2" ind2=" ">
+      <subfield code="a">20091222</subfield>
+      <subfield code="b">w</subfield>
+      <subfield code="d">batch</subfield>
+      <subfield code="e">lts</subfield>
+    </datafield>
+    <datafield tag="948" ind1="2" ind2=" ">
+      <subfield code="a">20141016</subfield>
+      <subfield code="b">m</subfield>
+      <subfield code="d">batch</subfield>
+      <subfield code="e">lts</subfield>
+      <subfield code="x">addfast</subfield>
+    </datafield>
+    <datafield tag="950" ind1=" " ind2=" ">
+      <subfield code="l">OLIN</subfield>
+      <subfield code="a">JX1977.2.R8</subfield>
+      <subfield code="b">D14</subfield>
+      <subfield code="f">BASIC</subfield>
+      <subfield code="h">12/10/85 N</subfield>
+    </datafield>
+    <datafield tag="950" ind1=" " ind2=" ">
+      <subfield code="l">LAW</subfield>
+      <subfield code="a">JX1977.2.R8</subfield>
+      <subfield code="b">D14</subfield>
+      <subfield code="f">BASIC</subfield>
+      <subfield code="i">03/28/86 N</subfield>
+    </datafield>
+    <datafield tag="950" ind1=" " ind2=" ">
+      <subfield code="l">URIS</subfield>
+      <subfield code="a">JX1977.2.R8</subfield>
+      <subfield code="b">D14</subfield>
+      <subfield code="i">11/22/89 N</subfield>
+    </datafield>
+    <datafield tag="976" ind1=" " ind2=" ">
+      <subfield code="p">31924014250769</subfield>
+    </datafield>
+  </record>
+  <record>
+    <leader>00962cam a22002771  4500</leader>
+    <controlfield tag="001">86</controlfield>
+    <controlfield tag="005">20141021232338.0</controlfield>
+    <controlfield tag="008">860224s1906    mauac         000 0 eng d</controlfield>
+    <datafield tag="035" ind1=" " ind2=" ">
+      <subfield code="a">(CStRLIN)NYCX86B22814</subfield>
+    </datafield>
+    <datafield tag="035" ind1=" " ind2=" ">
+      <subfield code="a">(NIC)notisAAA0084</subfield>
+    </datafield>
+    <datafield tag="035" ind1=" " ind2=" ">
+      <subfield code="a">(OCoLC)18792145</subfield>
+    </datafield>
+    <datafield tag="035" ind1=" " ind2=" ">
+      <subfield code="a">86</subfield>
+    </datafield>
+    <datafield tag="040" ind1=" " ind2=" ">
+      <subfield code="a">NIC</subfield>
+      <subfield code="c">NIC</subfield>
+    </datafield>
+    <datafield tag="100" ind1="1" ind2=" ">
+      <subfield code="a">Bradburn, John,</subfield>
+      <subfield code="d">1842-</subfield>
+    </datafield>
+    <datafield tag="245" ind1="1" ind2="0">
+      <subfield code="a">Breeding and developing the trotter,</subfield>
+      <subfield code="c">by John Bradburn ... ed. by Arthur C. Thomas ...</subfield>
+    </datafield>
+    <datafield tag="260" ind1=" " ind2=" ">
+      <subfield code="a">Boston, Mass.,</subfield>
+      <subfield code="b">American Horse Breeder Publishing Company,</subfield>
+      <subfield code="c">1906.</subfield>
+    </datafield>
+    <datafield tag="300" ind1=" " ind2=" ">
+      <subfield code="a">xiv, 143, [4] p.</subfield>
+      <subfield code="b">front. (port.) illus.</subfield>
+      <subfield code="c">21 cm.</subfield>
+    </datafield>
+    <datafield tag="650" ind1=" " ind2="0">
+      <subfield code="a">Horse breeds</subfield>
+    </datafield>
+    <datafield tag="650" ind1=" " ind2="0">
+      <subfield code="a">Horse-racing</subfield>
+    </datafield>
+    <datafield tag="650" ind1=" " ind2="7">
+      <subfield code="a">Horse breeds</subfield>
+      <subfield code="2">fast</subfield>
+      <subfield code="0">(OCoLC)fst00960458</subfield>
+    </datafield>
+    <datafield tag="650" ind1=" " ind2="7">
+      <subfield code="a">Horse racing</subfield>
+      <subfield code="2">fast</subfield>
+      <subfield code="0">(OCoLC)fst00960488</subfield>
+    </datafield>
+    <datafield tag="700" ind1="1" ind2=" ">
+      <subfield code="a">Thomas, Arthur Caton,</subfield>
+      <subfield code="d">1885,</subfield>
+      <subfield code="e">ed.</subfield>
+    </datafield>
+    <datafield tag="903" ind1=" " ind2=" ">
+      <subfield code="a">Kirtas</subfield>
+      <subfield code="d">20070921</subfield>
+      <subfield code="p">31924105357499</subfield>
+    </datafield>
+    <datafield tag="905" ind1=" " ind2=" ">
+      <subfield code="a">19880603120000.0</subfield>
+    </datafield>
+    <datafield tag="948" ind1="2" ind2=" ">
+      <subfield code="a">20141016</subfield>
+      <subfield code="b">m</subfield>
+      <subfield code="d">batch</subfield>
+      <subfield code="e">lts</subfield>
+      <subfield code="x">addfast</subfield>
+    </datafield>
+    <datafield tag="950" ind1=" " ind2=" ">
+      <subfield code="l">VET</subfield>
+      <subfield code="a">SF293.T8</subfield>
+      <subfield code="b">B79</subfield>
+      <subfield code="f">BASIC</subfield>
+      <subfield code="i">02/24/86 N</subfield>
+    </datafield>
+  </record>
+  <record>
+    <leader>01052cam a2200301 i 4500</leader>
+    <controlfield tag="001">87</controlfield>
+    <controlfield tag="005">20141021232340.0</controlfield>
+    <controlfield tag="008">851126s1904    mau      b    000 0 eng  </controlfield>
+    <datafield tag="010" ind1=" " ind2=" ">
+      <subfield code="a">   43003589 </subfield>
+    </datafield>
+    <datafield tag="035" ind1=" " ind2=" ">
+      <subfield code="a">(CStRLIN)NYCX85B133310</subfield>
+    </datafield>
+    <datafield tag="035" ind1=" " ind2=" ">
+      <subfield code="a">(NIC)notisAAA0085</subfield>
+    </datafield>
+    <datafield tag="035" ind1=" " ind2=" ">
+      <subfield code="a">(OCoLC)664336</subfield>
+    </datafield>
+    <datafield tag="035" ind1=" " ind2=" ">
+      <subfield code="a">87</subfield>
+    </datafield>
+    <datafield tag="040" ind1=" " ind2=" ">
+      <subfield code="c">NvU</subfield>
+      <subfield code="d">NvU</subfield>
+      <subfield code="d">NIC</subfield>
+    </datafield>
+    <datafield tag="043" ind1=" " ind2=" ">
+      <subfield code="a">E-NE---</subfield>
+    </datafield>
+    <datafield tag="050" ind1="0" ind2=" ">
+      <subfield code="a">JX1919</subfield>
+      <subfield code="b">.F7</subfield>
+    </datafield>
+    <datafield tag="100" ind1="1" ind2=" ">
+      <subfield code="a">Foster, John Watson,</subfield>
+      <subfield code="d">1836-1917.</subfield>
+    </datafield>
+    <datafield tag="245" ind1="1" ind2="0">
+      <subfield code="a">Arbitration and the Hague court,</subfield>
+      <subfield code="c">by John W. Foster.</subfield>
+    </datafield>
+    <datafield tag="260" ind1=" " ind2=" ">
+      <subfield code="a">Boston and New York,</subfield>
+      <subfield code="b">Houghton, Mifflin,</subfield>
+      <subfield code="c">1904.</subfield>
+    </datafield>
+    <datafield tag="300" ind1=" " ind2=" ">
+      <subfield code="a">147 p.</subfield>
+      <subfield code="c">20 cm.</subfield>
+    </datafield>
+    <datafield tag="500" ind1=" " ind2=" ">
+      <subfield code="a">"This monograph has been prepared in response to a resolution of the Mohonk arbitration conference."</subfield>
+    </datafield>
+    <datafield tag="504" ind1=" " ind2=" ">
+      <subfield code="a">Includes bibliographical references.</subfield>
+    </datafield>
+    <datafield tag="650" ind1=" " ind2="0">
+      <subfield code="a">Arbitration (International law)</subfield>
+    </datafield>
+    <datafield tag="650" ind1=" " ind2="7">
+      <subfield code="a">Arbitration (International law)</subfield>
+      <subfield code="2">fast</subfield>
+      <subfield code="0">(OCoLC)fst01761738</subfield>
+    </datafield>
+    <datafield tag="903" ind1=" " ind2=" ">
+      <subfield code="a">Kirtas/Annex</subfield>
+      <subfield code="d">20080229</subfield>
+      <subfield code="p">31924005213776</subfield>
+    </datafield>
+    <datafield tag="905" ind1=" " ind2=" ">
+      <subfield code="a">19880603120000.0</subfield>
+    </datafield>
+    <datafield tag="948" ind1="2" ind2=" ">
+      <subfield code="a">20141016</subfield>
+      <subfield code="b">m</subfield>
+      <subfield code="d">batch</subfield>
+      <subfield code="e">lts</subfield>
+      <subfield code="x">addfast</subfield>
+    </datafield>
+    <datafield tag="950" ind1=" " ind2=" ">
+      <subfield code="l">OLIN</subfield>
+      <subfield code="a">JX1919</subfield>
+      <subfield code="b">.F75</subfield>
+      <subfield code="f">BASIC</subfield>
+      <subfield code="i">11/26/85 N</subfield>
+    </datafield>
+  </record>
+  <record>
+    <leader>01110cam a22003131  4500</leader>
+    <controlfield tag="001">88</controlfield>
+    <controlfield tag="005">20141021232340.0</controlfield>
+    <controlfield tag="008">860116s1961    fr a     b    000 0 fre d</controlfield>
+    <datafield tag="035" ind1=" " ind2=" ">
+      <subfield code="a">(CStRLIN)NYCX86B6717</subfield>
+    </datafield>
+    <datafield tag="035" ind1=" " ind2=" ">
+      <subfield code="a">(NIC)notisAAA0086</subfield>
+    </datafield>
+    <datafield tag="035" ind1=" " ind2=" ">
+      <subfield code="a">(OCoLC)1724432</subfield>
+    </datafield>
+    <datafield tag="035" ind1=" " ind2=" ">
+      <subfield code="a">88</subfield>
+    </datafield>
+    <datafield tag="040" ind1=" " ind2=" ">
+      <subfield code="a">NIC</subfield>
+      <subfield code="c">NIC</subfield>
+    </datafield>
+    <datafield tag="043" ind1=" " ind2=" ">
+      <subfield code="a">a-vm---</subfield>
+    </datafield>
+    <datafield tag="100" ind1="1" ind2=" ">
+      <subfield code="a">Isoart, Paul.</subfield>
+    </datafield>
+    <datafield tag="245" ind1="1" ind2="3">
+      <subfield code="a">Le phénomène national viêtnamien, de l'indépendance unitaire à l'indépendance fractionnée.</subfield>
+      <subfield code="c">Préf. de Michel-Henry Fabre.</subfield>
+    </datafield>
+    <datafield tag="260" ind1=" " ind2=" ">
+      <subfield code="a">Paris,</subfield>
+      <subfield code="b">Librairie générale de droit et de jurisprudence,</subfield>
+      <subfield code="c">1961.</subfield>
+    </datafield>
+    <datafield tag="300" ind1=" " ind2=" ">
+      <subfield code="a">437 p.</subfield>
+      <subfield code="b">illus.</subfield>
+      <subfield code="c">24 cm.</subfield>
+    </datafield>
+    <datafield tag="490" ind1="1" ind2=" ">
+      <subfield code="a">Bibliothèque de droit international,</subfield>
+      <subfield code="v">t. 15</subfield>
+    </datafield>
+    <datafield tag="504" ind1=" " ind2=" ">
+      <subfield code="a">Includes bibliographies.</subfield>
+    </datafield>
+    <datafield tag="651" ind1=" " ind2="0">
+      <subfield code="a">Vietnam</subfield>
+      <subfield code="x">History</subfield>
+    </datafield>
+    <datafield tag="651" ind1=" " ind2="7">
+      <subfield code="a">Vietnam</subfield>
+      <subfield code="2">fast</subfield>
+      <subfield code="0">(OCoLC)fst01204778</subfield>
+    </datafield>
+    <datafield tag="655" ind1=" " ind2="7">
+      <subfield code="a">History</subfield>
+      <subfield code="2">fast</subfield>
+      <subfield code="0">(OCoLC)fst01411628</subfield>
+    </datafield>
+    <datafield tag="830" ind1=" " ind2="0">
+      <subfield code="a">Bibliothèque de droit international.</subfield>
+      <subfield code="v">t. 15</subfield>
+    </datafield>
+    <datafield tag="905" ind1=" " ind2=" ">
+      <subfield code="a">19880603120000.0</subfield>
+    </datafield>
+    <datafield tag="948" ind1="2" ind2=" ">
+      <subfield code="a">20020910</subfield>
+      <subfield code="b">w</subfield>
+      <subfield code="d">vwb2</subfield>
+      <subfield code="e">lts</subfield>
+    </datafield>
+    <datafield tag="948" ind1="2" ind2=" ">
+      <subfield code="a">20070312</subfield>
+      <subfield code="b">y</subfield>
+      <subfield code="d">ekh3</subfield>
+      <subfield code="e">law</subfield>
+    </datafield>
+    <datafield tag="948" ind1="2" ind2=" ">
+      <subfield code="a">20141016</subfield>
+      <subfield code="b">m</subfield>
+      <subfield code="d">batch</subfield>
+      <subfield code="e">lts</subfield>
+      <subfield code="x">addfast</subfield>
+    </datafield>
+    <datafield tag="950" ind1=" " ind2=" ">
+      <subfield code="l">LAW</subfield>
+      <subfield code="a">JX1573</subfield>
+      <subfield code="b">.I85</subfield>
+      <subfield code="f">BASIC</subfield>
+      <subfield code="i">01/16/86 N</subfield>
+    </datafield>
+  </record>
+  <record>
+    <leader>01257cam a2200349   4500</leader>
+    <controlfield tag="001">89</controlfield>
+    <controlfield tag="005">20141021232341.0</controlfield>
+    <controlfield tag="008">860224s1914    pauf          000 0 eng  </controlfield>
+    <datafield tag="010" ind1=" " ind2=" ">
+      <subfield code="a">   14017964 </subfield>
+    </datafield>
+    <datafield tag="020" ind1=" " ind2=" ">
+      <subfield code="c">$5.00</subfield>
+    </datafield>
+    <datafield tag="035" ind1=" " ind2=" ">
+      <subfield code="a">(CStRLIN)NYCX86B22815</subfield>
+    </datafield>
+    <datafield tag="035" ind1=" " ind2=" ">
+      <subfield code="a">(NIC)notisAAA0087</subfield>
+    </datafield>
+    <datafield tag="035" ind1=" " ind2=" ">
+      <subfield code="a">(OCoLC)478945</subfield>
+    </datafield>
+    <datafield tag="035" ind1=" " ind2=" ">
+      <subfield code="a">89</subfield>
+    </datafield>
+    <datafield tag="040" ind1=" " ind2=" ">
+      <subfield code="c">MiU</subfield>
+      <subfield code="d">MiU</subfield>
+      <subfield code="d">NIC</subfield>
+    </datafield>
+    <datafield tag="043" ind1=" " ind2=" ">
+      <subfield code="a">n-us-md</subfield>
+      <subfield code="a">n-us-de</subfield>
+    </datafield>
+    <datafield tag="050" ind1="0" ind2=" ">
+      <subfield code="a">F182</subfield>
+      <subfield code="b">.H22</subfield>
+    </datafield>
+    <datafield tag="100" ind1="1" ind2=" ">
+      <subfield code="a">Hammond, John Martin.</subfield>
+    </datafield>
+    <datafield tag="245" ind1="1" ind2="0">
+      <subfield code="a">Colonial mansions of Maryland and Delaware,</subfield>
+      <subfield code="c">by John Martin Hammond; with sixty-five illustrations.</subfield>
+    </datafield>
+    <datafield tag="260" ind1=" " ind2=" ">
+      <subfield code="a">Philadelphia,</subfield>
+      <subfield code="a">London,</subfield>
+      <subfield code="b">J.B. Lippincott company,</subfield>
+      <subfield code="c">1914.</subfield>
+    </datafield>
+    <datafield tag="300" ind1=" " ind2=" ">
+      <subfield code="a">xii, [1], 304 p.</subfield>
+      <subfield code="b">front., plates.</subfield>
+      <subfield code="c">25 cm.</subfield>
+    </datafield>
+    <datafield tag="500" ind1=" " ind2=" ">
+      <subfield code="a">"This limited edition has been printed from type and the type distributed."</subfield>
+    </datafield>
+    <datafield tag="650" ind1=" " ind2="0">
+      <subfield code="a">Historic buildings</subfield>
+      <subfield code="z">Delaware.</subfield>
+    </datafield>
+    <datafield tag="650" ind1=" " ind2="0">
+      <subfield code="a">Historic buildings</subfield>
+      <subfield code="z">Maryland.</subfield>
+    </datafield>
+    <datafield tag="650" ind1=" " ind2="7">
+      <subfield code="a">Historic buildings</subfield>
+      <subfield code="2">fast</subfield>
+      <subfield code="0">(OCoLC)fst00957723</subfield>
+    </datafield>
+    <datafield tag="651" ind1=" " ind2="7">
+      <subfield code="a">Delaware</subfield>
+      <subfield code="2">fast</subfield>
+      <subfield code="0">(OCoLC)fst01204929</subfield>
+    </datafield>
+    <datafield tag="651" ind1=" " ind2="7">
+      <subfield code="a">Maryland</subfield>
+      <subfield code="2">fast</subfield>
+      <subfield code="0">(OCoLC)fst01204739</subfield>
+    </datafield>
+    <datafield tag="903" ind1=" " ind2=" ">
+      <subfield code="a">Kirtas</subfield>
+      <subfield code="d">20080208</subfield>
+      <subfield code="p">31924014758001</subfield>
+    </datafield>
+    <datafield tag="903" ind1=" " ind2=" ">
+      <subfield code="a">Kirtas/Annex</subfield>
+      <subfield code="d">20080215</subfield>
+      <subfield code="p">31924021140276</subfield>
+    </datafield>
+    <datafield tag="905" ind1=" " ind2=" ">
+      <subfield code="a">19971110120000.0</subfield>
+    </datafield>
+    <datafield tag="948" ind1="2" ind2=" ">
+      <subfield code="a">20141016</subfield>
+      <subfield code="b">m</subfield>
+      <subfield code="d">batch</subfield>
+      <subfield code="e">lts</subfield>
+      <subfield code="x">addfast</subfield>
+    </datafield>
+    <datafield tag="950" ind1=" " ind2=" ">
+      <subfield code="l">FINE</subfield>
+      <subfield code="a">NA7235.M3</subfield>
+      <subfield code="b">H2</subfield>
+      <subfield code="f">BASIC</subfield>
+      <subfield code="i">02/24/86 N</subfield>
+    </datafield>
+  </record>
+  <record>
+    <leader>01383cam a2200349 a 4500</leader>
+    <controlfield tag="001">90</controlfield>
+    <controlfield tag="005">20141021232341.0</controlfield>
+    <controlfield tag="008">851210s1920    nyub     b    001 0 eng  </controlfield>
+    <datafield tag="010" ind1=" " ind2=" ">
+      <subfield code="a">   20009904 </subfield>
+    </datafield>
+    <datafield tag="035" ind1=" " ind2=" ">
+      <subfield code="a">(CStRLIN)NYCX85B138663</subfield>
+    </datafield>
+    <datafield tag="035" ind1=" " ind2=" ">
+      <subfield code="a">(NIC)notisAAA0088</subfield>
+    </datafield>
+    <datafield tag="035" ind1=" " ind2=" ">
+      <subfield code="a">(OCoLC)1572422</subfield>
+    </datafield>
+    <datafield tag="035" ind1=" " ind2=" ">
+      <subfield code="a">90</subfield>
+    </datafield>
+    <datafield tag="040" ind1=" " ind2=" ">
+      <subfield code="c">NjR-L</subfield>
+      <subfield code="d">NjR-L</subfield>
+      <subfield code="d">NIC</subfield>
+    </datafield>
+    <datafield tag="043" ind1=" " ind2=" ">
+      <subfield code="a">n-us---</subfield>
+    </datafield>
+    <datafield tag="050" ind1="0" ind2=" ">
+      <subfield code="a">JX4054</subfield>
+      <subfield code="b">.W3</subfield>
+    </datafield>
+    <datafield tag="100" ind1="1" ind2=" ">
+      <subfield code="a">Wambaugh, Sarah,</subfield>
+      <subfield code="d">1982-</subfield>
+    </datafield>
+    <datafield tag="245" ind1="1" ind2="2">
+      <subfield code="a">A monograph on plebiscites,</subfield>
+      <subfield code="b">with a collection of official documents /</subfield>
+      <subfield code="c">by Sarah Wambaugh ; prepared under the supervision of James Brown Scott ...</subfield>
+    </datafield>
+    <datafield tag="260" ind1=" " ind2=" ">
+      <subfield code="a">New York, N.Y. :</subfield>
+      <subfield code="b">Oxford University Press,</subfield>
+      <subfield code="c">1920.</subfield>
+    </datafield>
+    <datafield tag="300" ind1=" " ind2=" ">
+      <subfield code="a">xxxv, 1088 p. :</subfield>
+      <subfield code="b">maps ;</subfield>
+      <subfield code="c">26 cm.</subfield>
+    </datafield>
+    <datafield tag="490" ind1="1" ind2=" ">
+      <subfield code="a">Publications of the Carnegie Endowment for International Peace. Division of International Law, Washington</subfield>
+    </datafield>
+    <datafield tag="504" ind1=" " ind2=" ">
+      <subfield code="a">Bibliography : p. xxix-xxxv.</subfield>
+    </datafield>
+    <datafield tag="650" ind1=" " ind2="0">
+      <subfield code="a">Plebiscite</subfield>
+    </datafield>
+    <datafield tag="650" ind1=" " ind2="7">
+      <subfield code="a">Plebiscite</subfield>
+      <subfield code="2">fast</subfield>
+      <subfield code="0">(OCoLC)fst01067100</subfield>
+    </datafield>
+    <datafield tag="700" ind1="1" ind2=" ">
+      <subfield code="a">Scott, James Brown,</subfield>
+      <subfield code="d">1866-1943.</subfield>
+      <subfield code="e">ed.</subfield>
+    </datafield>
+    <datafield tag="830" ind1=" " ind2="0">
+      <subfield code="a">Publications of the Carnegie Endowment for International Peace, Division of International Law.</subfield>
+    </datafield>
+    <datafield tag="903" ind1=" " ind2="5">
+      <subfield code="a">Kirtas</subfield>
+      <subfield code="d">20080130</subfield>
+      <subfield code="p">31924016932596</subfield>
+      <subfield code="x">Not digitized</subfield>
+    </datafield>
+    <datafield tag="905" ind1=" " ind2=" ">
+      <subfield code="a">19920817120000.0</subfield>
+    </datafield>
+    <datafield tag="948" ind1="2" ind2=" ">
+      <subfield code="a">20090921</subfield>
+      <subfield code="b">y</subfield>
+      <subfield code="d">ekh3</subfield>
+      <subfield code="e">law</subfield>
+    </datafield>
+    <datafield tag="948" ind1="2" ind2=" ">
+      <subfield code="a">20141016</subfield>
+      <subfield code="b">m</subfield>
+      <subfield code="d">batch</subfield>
+      <subfield code="e">lts</subfield>
+      <subfield code="x">addfast</subfield>
+    </datafield>
+    <datafield tag="950" ind1=" " ind2=" ">
+      <subfield code="l">OLIN</subfield>
+      <subfield code="a">JX4054</subfield>
+      <subfield code="b">.W24+</subfield>
+      <subfield code="f">BASIC</subfield>
+      <subfield code="h">12/10/85 N</subfield>
+    </datafield>
+    <datafield tag="950" ind1=" " ind2=" ">
+      <subfield code="l">LAW</subfield>
+      <subfield code="a">JX4054</subfield>
+      <subfield code="b">.W21</subfield>
+      <subfield code="f">BASIC</subfield>
+      <subfield code="i">02/07/86 N</subfield>
+    </datafield>
+  </record>
+  <record>
+    <leader>01035cam a2200265   4500</leader>
+    <controlfield tag="001">91</controlfield>
+    <controlfield tag="005">20141021232342.0</controlfield>
+    <controlfield tag="008">851126s1893    mau           100 0 eng  </controlfield>
+    <datafield tag="010" ind1=" " ind2=" ">
+      <subfield code="a">   91009006 </subfield>
+    </datafield>
+    <datafield tag="035" ind1=" " ind2=" ">
+      <subfield code="a">(CStRLIN)NYCX85B133313</subfield>
+    </datafield>
+    <datafield tag="035" ind1=" " ind2=" ">
+      <subfield code="a">(NIC)notisAAA0089</subfield>
+    </datafield>
+    <datafield tag="035" ind1=" " ind2=" ">
+      <subfield code="a">(OCoLC)2961642</subfield>
+    </datafield>
+    <datafield tag="035" ind1=" " ind2=" ">
+      <subfield code="a">91</subfield>
+    </datafield>
+    <datafield tag="040" ind1=" " ind2=" ">
+      <subfield code="c">CU-AL</subfield>
+      <subfield code="d">CU-AL</subfield>
+      <subfield code="d">NIC</subfield>
+    </datafield>
+    <datafield tag="111" ind1="1" ind2=" ">
+      <subfield code="a">Universal peace congress.</subfield>
+      <subfield code="n">5th,</subfield>
+      <subfield code="c">Chicago,</subfield>
+      <subfield code="d">1893.</subfield>
+    </datafield>
+    <datafield tag="245" ind1="1" ind2="0">
+      <subfield code="a">Official report of the fifth Universal peace congress held at Chicago, United States of America, August 14 to 20, 1893,</subfield>
+      <subfield code="b">under the auspices of the World's congress auxiliary of the World's Columbian exposition.</subfield>
+    </datafield>
+    <datafield tag="260" ind1=" " ind2=" ">
+      <subfield code="a">Boston,</subfield>
+      <subfield code="b">The American peace society</subfield>
+      <subfield code="c">[1893]</subfield>
+    </datafield>
+    <datafield tag="300" ind1=" " ind2=" ">
+      <subfield code="a">332 p.</subfield>
+      <subfield code="c">24 cm.</subfield>
+    </datafield>
+    <datafield tag="650" ind1=" " ind2="0">
+      <subfield code="a">Peace</subfield>
+      <subfield code="x">Congresses.</subfield>
+    </datafield>
+    <datafield tag="650" ind1=" " ind2="7">
+      <subfield code="a">Peace</subfield>
+      <subfield code="2">fast</subfield>
+      <subfield code="0">(OCoLC)fst01055758</subfield>
+    </datafield>
+    <datafield tag="655" ind1=" " ind2="7">
+      <subfield code="a">Conference proceedings</subfield>
+      <subfield code="2">fast</subfield>
+      <subfield code="0">(OCoLC)fst01423772</subfield>
+    </datafield>
+    <datafield tag="903" ind1=" " ind2=" ">
+      <subfield code="a">Kirtas/Annex</subfield>
+      <subfield code="d">20080229</subfield>
+      <subfield code="p">31924005213792</subfield>
+    </datafield>
+    <datafield tag="905" ind1=" " ind2=" ">
+      <subfield code="a">19880603120000.0</subfield>
+    </datafield>
+    <datafield tag="948" ind1="2" ind2=" ">
+      <subfield code="a">20141016</subfield>
+      <subfield code="b">m</subfield>
+      <subfield code="d">batch</subfield>
+      <subfield code="e">lts</subfield>
+      <subfield code="x">addfast</subfield>
+    </datafield>
+    <datafield tag="950" ind1=" " ind2=" ">
+      <subfield code="l">OLIN</subfield>
+      <subfield code="a">JX1930</subfield>
+      <subfield code="b">.U5 1893</subfield>
+      <subfield code="f">BASIC</subfield>
+      <subfield code="i">11/26/85 N</subfield>
+    </datafield>
+  </record>
+  <record>
+    <leader>01559cam a2200397   4500</leader>
+    <controlfield tag="001">92</controlfield>
+    <controlfield tag="005">20141021232343.0</controlfield>
+    <controlfield tag="008">860116s1930    sp aef   b    000 0 spa d</controlfield>
+    <datafield tag="010" ind1=" " ind2=" ">
+      <subfield code="a">   31000825 </subfield>
+    </datafield>
+    <datafield tag="035" ind1=" " ind2=" ">
+      <subfield code="a">(CStRLIN)NYCX86B6718</subfield>
+    </datafield>
+    <datafield tag="035" ind1=" " ind2=" ">
+      <subfield code="a">(NIC)notisAAA0090</subfield>
+    </datafield>
+    <datafield tag="035" ind1=" " ind2=" ">
+      <subfield code="a">(OCoLC)5119851</subfield>
+    </datafield>
+    <datafield tag="035" ind1=" " ind2=" ">
+      <subfield code="a">92</subfield>
+    </datafield>
+    <datafield tag="040" ind1=" " ind2=" ">
+      <subfield code="a">MiU</subfield>
+      <subfield code="c">MiU</subfield>
+      <subfield code="d">NIC</subfield>
+    </datafield>
+    <datafield tag="043" ind1=" " ind2=" ">
+      <subfield code="a">e-sp---</subfield>
+    </datafield>
+    <datafield tag="050" ind1="0" ind2=" ">
+      <subfield code="a">NA5803</subfield>
+      <subfield code="b">.L3 1930</subfield>
+    </datafield>
+    <datafield tag="082" ind1=" " ind2=" ">
+      <subfield code="a">726.0946</subfield>
+    </datafield>
+    <datafield tag="100" ind1="1" ind2=" ">
+      <subfield code="a">Lampérez y Romea, Vicente,</subfield>
+      <subfield code="d">1861-1923.</subfield>
+    </datafield>
+    <datafield tag="245" ind1="1" ind2="0">
+      <subfield code="a">Historia de la arquitectura cristiana española en la edad media según el estudio de los elementos y los monumentos,</subfield>
+      <subfield code="c">por Vicente Lampérez y Romea.</subfield>
+    </datafield>
+    <datafield tag="250" ind1=" " ind2=" ">
+      <subfield code="a">2. ed.</subfield>
+    </datafield>
+    <datafield tag="260" ind1=" " ind2=" ">
+      <subfield code="a">Madrid [etc.]</subfield>
+      <subfield code="b">Espasa-Calpe, S.A.,</subfield>
+      <subfield code="c">1930.</subfield>
+    </datafield>
+    <datafield tag="300" ind1=" " ind2=" ">
+      <subfield code="a">3 v.</subfield>
+      <subfield code="b">illus., plates (part fold.) plans (part fold.)</subfield>
+      <subfield code="c">28 cm.</subfield>
+    </datafield>
+    <datafield tag="500" ind1=" " ind2=" ">
+      <subfield code="a">"Obra premiada en el v Concurso internacional 'Martorell'-Barcelona, 1906."</subfield>
+    </datafield>
+    <datafield tag="504" ind1=" " ind2=" ">
+      <subfield code="a">"Bibliografia española moderna" at the end of many chapters.</subfield>
+    </datafield>
+    <datafield tag="650" ind1=" " ind2="0">
+      <subfield code="a">Church architecture</subfield>
+      <subfield code="z">Spain</subfield>
+      <subfield code="x">History.</subfield>
+    </datafield>
+    <datafield tag="650" ind1=" " ind2="0">
+      <subfield code="a">Architecture, Medieval</subfield>
+    </datafield>
+    <datafield tag="650" ind1=" " ind2="0">
+      <subfield code="a">Architecture</subfield>
+      <subfield code="z">Spain</subfield>
+      <subfield code="x">Bibliography.</subfield>
+    </datafield>
+    <datafield tag="650" ind1=" " ind2="7">
+      <subfield code="a">Architecture</subfield>
+      <subfield code="2">fast</subfield>
+      <subfield code="0">(OCoLC)fst00813346</subfield>
+    </datafield>
+    <datafield tag="650" ind1=" " ind2="7">
+      <subfield code="a">Architecture, Medieval</subfield>
+      <subfield code="2">fast</subfield>
+      <subfield code="0">(OCoLC)fst00813825</subfield>
+    </datafield>
+    <datafield tag="650" ind1=" " ind2="7">
+      <subfield code="a">Church architecture</subfield>
+      <subfield code="2">fast</subfield>
+      <subfield code="0">(OCoLC)fst00860550</subfield>
+    </datafield>
+    <datafield tag="651" ind1=" " ind2="7">
+      <subfield code="a">Spain</subfield>
+      <subfield code="2">fast</subfield>
+      <subfield code="0">(OCoLC)fst01204303</subfield>
+    </datafield>
+    <datafield tag="655" ind1=" " ind2="7">
+      <subfield code="a">Bibliography</subfield>
+      <subfield code="2">fast</subfield>
+      <subfield code="0">(OCoLC)fst01423717</subfield>
+    </datafield>
+    <datafield tag="655" ind1=" " ind2="7">
+      <subfield code="a">History</subfield>
+      <subfield code="2">fast</subfield>
+      <subfield code="0">(OCoLC)fst01411628</subfield>
+    </datafield>
+    <datafield tag="905" ind1=" " ind2=" ">
+      <subfield code="a">19880603120000.0</subfield>
+    </datafield>
+    <datafield tag="948" ind1="2" ind2=" ">
+      <subfield code="a">20141016</subfield>
+      <subfield code="b">m</subfield>
+      <subfield code="d">batch</subfield>
+      <subfield code="e">lts</subfield>
+      <subfield code="x">addfast</subfield>
+    </datafield>
+    <datafield tag="950" ind1=" " ind2=" ">
+      <subfield code="l">FINE</subfield>
+      <subfield code="a">NA5803</subfield>
+      <subfield code="b">.L23 1930</subfield>
+      <subfield code="f">BASIC</subfield>
+      <subfield code="i">01/16/86 N</subfield>
+    </datafield>
+  </record>
+</collection>
