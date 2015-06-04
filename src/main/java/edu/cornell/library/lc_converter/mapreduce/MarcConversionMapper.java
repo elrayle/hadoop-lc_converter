@@ -20,17 +20,16 @@ import javax.xml.stream.events.XMLEvent;
 public class MarcConversionMapper <K> extends Mapper<K, Text, Text, Text>{
 
   @Override
-  protected void map(K unused, Text urlText, Context context) throws IOException, InterruptedException {
-    String urlString = urlText.toString();
-    InputStream is = getUrl( urlString  );
-    HashSet<String> marcRecords = marcxmlCollectionParser( is ).iterator();
+  protected void map(K unused, Text marcxmlCollection, Context context) throws IOException, InterruptedException {
+    Iterator marcRecords = marcxmlCollectionParser( marcxmlCollection.toString() ).iterator();
 
     for( String marcXml = marcRecords.next(); marcRecords.hasNext(); marcXml = marcRecords.next() ){
         context.write(new Text(marcXml), null);
     }
   }
 
-  private HashSet<String> marcxmlCollectionParser( InputStream xmlstream ) throws XMLStreamException, Exception {
+  private HashSet<String> marcxmlCollectionParser( String marcxmlCollection ) throws XMLStreamException, Exception {
+    InputStream xmlstream = new ByteArrayInputStream(marcxmlCollection.getBytes(StandardCharsets.UTF_8));
     HashSet<String> marcRecords = new HashSet();
     XMLInputFactory input_factory = XMLInputFactory.newInstance();
     XMLStreamReader r  =
@@ -42,19 +41,6 @@ public class MarcConversionMapper <K> extends Mapper<K, Text, Text, Text>{
         }
     }
     return marcRecords;
-  }
-
-  private InputStream getUrl(String url) throws IOException {
-    InputStream is = null;
-    try {
-      is = davService.getFileAsInputStream(url);
-      if( url.endsWith( ".gz" ) || url.endsWith(".gzip"))
-        return new GZIPInputStream( is );
-      else
-        return is;
-    } catch (Exception e) {
-      throw new IOException("Could not get " + url , e);
-    }
   }
 
 }
