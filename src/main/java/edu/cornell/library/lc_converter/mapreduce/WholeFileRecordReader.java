@@ -1,5 +1,18 @@
 package edu.cornell.library.lc_converter.mapreduce;
 
+import org.apache.hadoop.mapreduce.RecordReader;
+import org.apache.hadoop.mapreduce.TaskAttemptContext;
+import org.apache.hadoop.mapreduce.InputSplit;
+import org.apache.hadoop.fs.FileSystem;
+import org.apache.hadoop.fs.Path;
+import org.apache.hadoop.conf.Configuration;
+import org.apache.hadoop.io.Text;
+import org.apache.hadoop.io.NullWritable;
+
+import java.lang.Integer;
+import java.lang.InterruptedException;
+import java.io.IOException;
+
 public class WholeFileRecordReader extends RecordReader<NullWritable, Text> {
     private static final Logger LOG = Logger.getLogger(WholeFileRecordReader.class);
 
@@ -26,7 +39,7 @@ public class WholeFileRecordReader extends RecordReader<NullWritable, Text> {
        * @param context The context for this task.
        * @param pathToProcess The path index from the InputSplit to process in this record.
        */
-      public WholeFileRecordReader(Split fileSplit, TaskAttemptContext context,
+      public WholeFileRecordReader(InputSplit fileSplit, TaskAttemptContext context,
           Integer pathToProcess) {
         mProcessed = false;
         mFileToRead = fileSplit.getPath(pathToProcess);
