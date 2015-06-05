@@ -13,7 +13,7 @@ import org.apache.hadoop.mapreduce.lib.output.FileOutputFormat;
 import org.apache.hadoop.util.Tool;
 import org.apache.hadoop.util.ToolRunner;
 
-import edu.cornell.library.lc_converter.input_formats.TWPInputFormat;
+//import edu.cornell.library.lc_converter.input_formats.TWPInputFormat;
 
 
 public class MarcConversionJob extends Configured implements Tool {
@@ -27,7 +27,7 @@ public class MarcConversionJob extends Configured implements Tool {
     FileInputFormat.addInputPath(job, new Path(args[0]));
     FileOutputFormat.setOutputPath(job, new Path(args[1]));
 
-    job.setInputFormatClass(FileInputFormat.class);
+    job.setInputFormatClass(TextInputFormat.class);
 //    job.setInputFormatClass(TWPInputFormat.class);
 //    job.setInputFormatClass(WholeFileInputFormat.class);
 

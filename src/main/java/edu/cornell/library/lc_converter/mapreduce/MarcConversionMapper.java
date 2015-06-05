@@ -21,7 +21,7 @@ import javax.xml.stream.XMLStreamReader;
 import javax.xml.stream.XMLInputFactory;
 import javax.xml.stream.events.XMLEvent;
 
-import edu.cornell.library.lc_converter.input_formats.TextWithPath;
+//import edu.cornell.library.lc_converter.input_formats.TextWithPath;
 
 
 public class MarcConversionMapper <K> extends Mapper<K, Text, Text, Text>{
@@ -67,8 +67,6 @@ public class MarcConversionMapper <K> extends Mapper<K, Text, Text, Text>{
 //    }
 //    return marcRecords;
 //  }
-//
-
 
 }
 
