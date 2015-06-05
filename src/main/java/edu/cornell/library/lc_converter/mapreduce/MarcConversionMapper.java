@@ -76,7 +76,5 @@ public class MarcConversionMapper <K> extends Mapper<K, Text, Text, Text>{
 //    return marcRecords;
 //  }
 
-  private file createTmpFile(
-
 }
 
