@@ -57,7 +57,7 @@ public class MarcConversionMapper <K> extends Mapper<K, Text, Text, Text>{
 
 
 //    context.write(marcxmlCollection, null);
-    context.write(filePathString, null);
+    context.write(new Text(filePathString), null);
 
   }
 
