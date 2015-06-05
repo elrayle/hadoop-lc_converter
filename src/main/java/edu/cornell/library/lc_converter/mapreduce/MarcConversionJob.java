@@ -13,6 +13,9 @@ import org.apache.hadoop.mapreduce.lib.output.FileOutputFormat;
 import org.apache.hadoop.util.Tool;
 import org.apache.hadoop.util.ToolRunner;
 
+import edu.cornell.library.lc_converter.input_formats.TWPFileInputFormat;
+
+
 public class MarcConversionJob extends Configured implements Tool {
 
   @Override
