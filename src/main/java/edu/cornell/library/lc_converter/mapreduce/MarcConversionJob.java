@@ -27,7 +27,8 @@ public class MarcConversionJob extends Configured implements Tool {
     FileInputFormat.addInputPath(job, new Path(args[0]));
     FileOutputFormat.setOutputPath(job, new Path(args[1]));
 
-    job.setInputFormatClass(TextInputFormat.class);
+    job.setInputFormatClass(SequenceFileInputFormat.class);
+//    job.setInputFormatClass(TextInputFormat.class);
 //    job.setInputFormatClass(TWPInputFormat.class);
 //    job.setInputFormatClass(WholeFileInputFormat.class);
 
