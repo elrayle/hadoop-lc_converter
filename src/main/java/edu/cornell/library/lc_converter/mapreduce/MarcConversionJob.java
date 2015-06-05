@@ -31,7 +31,7 @@ public class MarcConversionJob extends Configured implements Tool {
     job.setInputFormatClass(TextInputFormat.class);
 //    job.setInputFormatClass(TWPInputFormat.class);
 //    job.setInputFormatClass(WholeFileInputFormat.class);
-    FileInputFormat.setMinInputSplitSize(job,50000);
+    FileInputFormat.setMaxInputSplitSize(job,1);
 
     job.setMapperClass(MarcConversionMapper.class);
     job.setNumReduceTasks(0);
