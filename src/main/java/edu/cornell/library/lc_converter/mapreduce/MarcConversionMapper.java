@@ -5,6 +5,9 @@ import org.apache.hadoop.io.Text;
 import org.apache.hadoop.io.LongWritable;
 import org.apache.hadoop.io.IntWritable;
 import org.apache.hadoop.mapreduce.Mapper;
+import org.apache.hadoop.fs.FileSystem;
+import org.apache.hadoop.fs.Path;
+import org.apache.hadoop.mapreduce.lib.input.FileSplit;
 
 import java.lang.InterruptedException;
 import java.io.IOException;
@@ -40,7 +43,6 @@ public class MarcConversionMapper <K> extends Mapper<K, Text, Text, Text>{
 //}
 
 
-
   @Override
   protected void map(K unused, Text marcxmlCollection, Context context) throws IOException, InterruptedException {
 //    Iterator marcRecords = marcxmlCollectionParser( marcxmlCollection.toString() ).iterator();
@@ -49,7 +51,13 @@ public class MarcConversionMapper <K> extends Mapper<K, Text, Text, Text>{
 //        context.write(new Text(marcXml), null);
 //    }
 
-      context.write(marcxmlCollection, null);
+
+    Path filePath = ((FileSplit) context.getInputSplit()).getPath();
+    String filePathString = ((FileSplit) context.getInputSplit()).getPath().toString();
+
+
+//    context.write(marcxmlCollection, null);
+    context.write(filePathString, null);
 
   }
 
@@ -67,6 +75,8 @@ public class MarcConversionMapper <K> extends Mapper<K, Text, Text, Text>{
 //    }
 //    return marcRecords;
 //  }
+
+  private file createTmpFile(
 
 }
 
