@@ -12,7 +12,7 @@ import org.apache.hadoop.io.NullWritable;
 import java.io.IOException;
 
 
-public class WholeFileInputFormat extends FileInputFormat {
+public class SingleFileInputFormat extends FileInputFormat {
 
   @Override
   protected boolean isSplitable(JobContext context, Path file) {
@@ -28,13 +28,13 @@ public class WholeFileInputFormat extends FileInputFormat {
    *        not a CombineFileSplit.
    * @param context The context for this task.
    * @return a CombineFileRecordReader to process each file in split.
-   *         It will read each file with a WholeFileRecordReader.
+   *         It will read each file with a SingleFileRecordReader.
    * @throws IOException if there is an error.
    */
   @Override
   public RecordReader<NullWritable, Text> createRecordReader(
           InputSplit split, TaskAttemptContext context) throws IOException {
-    return new RecordReader<NullWritable, Text>( split, context, WholeFileRecordReader.class);
+    return new RecordReader<NullWritable, Text>( split, context, SingleFileRecordReader.class);
   }
 
 //  @Override
@@ -44,7 +44,7 @@ public class WholeFileInputFormat extends FileInputFormat {
 //    if (!(split instanceof CombineFileSplit)) {
 //      throw new IllegalArgumentException("split must be a CombineFileSplit");
 //    }
-//    return new CombineFileRecordReader<NullWritable, Text>((CombineFileSplit) split, context, WholeFileRecordReader.class);
+//    return new CombineFileRecordReader<NullWritable, Text>((CombineFileSplit) split, context, SingleFileRecordReader.class);
 //  }
 
 }

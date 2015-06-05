@@ -14,8 +14,8 @@ import java.lang.InterruptedException;
 import java.io.IOException;
 import java.util.logging.Logging;
 
-public class WholeFileRecordReader extends RecordReader<NullWritable, Text> {
-    private static final Logger LOG = Logger.getLogger(WholeFileRecordReader.class);
+public class SingleFileRecordReader extends RecordReader<NullWritable, Text> {
+    private static final Logger LOG = Logger.getLogger(SingleFileRecordReader.class);
 
       /** The path to the file to read. */
       private final Path mFileToRead;
@@ -40,7 +40,7 @@ public class WholeFileRecordReader extends RecordReader<NullWritable, Text> {
        * @param context The context for this task.
        * @param pathToProcess The path index from the InputSplit to process in this record.
        */
-      public WholeFileRecordReader(InputSplit fileSplit, TaskAttemptContext context,
+      public SingleFileRecordReader(InputSplit fileSplit, TaskAttemptContext context,
           Integer pathToProcess) {
         mProcessed = false;
         mFileToRead = fileSplit.getPath(pathToProcess);
