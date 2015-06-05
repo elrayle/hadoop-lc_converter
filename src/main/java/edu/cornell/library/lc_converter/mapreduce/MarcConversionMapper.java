@@ -52,12 +52,16 @@ public class MarcConversionMapper extends Mapper<LongWritable, Text, Text, Text>
 //    }
 
 
-    Path filePath = ((FileSplit) context.getInputSplit()).getPath();
-    String filePathString = ((FileSplit) context.getInputSplit()).getPath().toString();
+//    Path filePath = ((FileSplit) context.getInputSplit()).getPath();
+//    String filePathString = ((FileSplit) context.getInputSplit()).getPath().toString();
+
+    // HARDCODE FOR NOW
+    String filePathString = "hdfs://localhost:9000/user/hadoop/"+value;
+
 
 
 //    context.write(marcxmlCollection, null);
-    context.write(new Text("key="+key.toString()+", value="+value), null);
+    context.write(new Text("key="+key.toString()+", value="+value+", filePathString="+filePathString), null);
 
   }
 
