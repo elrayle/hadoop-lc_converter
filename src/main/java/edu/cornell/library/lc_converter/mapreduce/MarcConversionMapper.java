@@ -2,6 +2,8 @@ package edu.cornell.library.lc_converter.mapreduce;
 
 import org.apache.hadoop.io.LongWritable;
 import org.apache.hadoop.io.Text;
+import org.apache.hadoop.io.LongWritable;
+import org.apache.hadoop.io.IntWritable;
 import org.apache.hadoop.mapreduce.Mapper;
 
 import java.lang.InterruptedException;
@@ -23,21 +25,19 @@ import edu.cornell.library.lc_converter.input_formats.TextWithPath;
 
 
 //public class MarcConversionMapper <K> extends Mapper<K, Text, Text, Text>{
-public class MarcConversionMapper <K> extends Mapper<LongWritable, TextWithPath, Text, IntWritable>{
+public class MarcConversionMapper extends Mapper<LongWritable, TextWithPath, Text, IntWritable>{
 
-  public static class TestMapper extends Mapper<LongWritable, TextWithPath, Text, IntWritable>{
-
-    /**
-     * Only override `run` instead of `map` method; because we just want to see one output
-     * per mapper, instead of printing every line.
-     */
-    @Override
-    public void run(Context context) throws IOException, InterruptedException{
-      context.nextKeyValue();
-      TextWithPath twp = context.getCurrentValue();
-      context.write(new Text(twp.getPath().toString()), new IntWritable(1));
-    }
+  /**
+   * Only override `run` instead of `map` method; because we just want to see one output
+   * per mapper, instead of printing every line.
+   */
+  @Override
+  public void run(Context context) throws IOException, InterruptedException{
+    context.nextKeyValue();
+    TextWithPath twp = context.getCurrentValue();
+    context.write(new Text(twp.getPath().toString()), new IntWritable(1));
   }
+}
 
 
 
