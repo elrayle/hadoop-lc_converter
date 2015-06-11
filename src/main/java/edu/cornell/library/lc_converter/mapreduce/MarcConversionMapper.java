@@ -27,7 +27,8 @@ import javax.xml.stream.events.XMLEvent;
 //import edu.cornell.library.lc_converter.input_formats.TextWithPath;
 
 
-public class MarcConversionMapper extends Mapper<LongWritable, Text, Text, Text>{
+public class MarcConversionMapper extends Mapper<Text, Text, Text, Text>{
+//public class MarcConversionMapper extends Mapper<LongWritable, Text, Text, Text>{
 //public class MarcConversionMapper extends Mapper<LongWritable, TextWithPath, Text, IntWritable>{
 //
 //  /**
@@ -44,7 +45,8 @@ public class MarcConversionMapper extends Mapper<LongWritable, Text, Text, Text>
 
 
   @Override
-  protected void map(LongWritable key, Text value, Context context) throws IOException, InterruptedException {
+  protected void map(Text key, Text value, Context context) throws IOException, InterruptedException {
+//  protected void map(LongWritable key, Text value, Context context) throws IOException, InterruptedException {
 //    Iterator marcRecords = marcxmlCollectionParser( marcxmlCollection.toString() ).iterator();
 
 //    for( String marcXml = (String)marcRecords.next(); marcRecords.hasNext(); marcXml = (String)marcRecords.next() ){
