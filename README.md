@@ -58,7 +58,7 @@ $ hadoop fs -mkdir -p output
 
 Run hadoop for lc_converter (modified test app)...
 ```
-$ $HADOOP_HOME/bin/hadoop jar target/hadoop-lc_converter-0.0.1.jar edu.cornell.library.lc_converter.mapreduce.AggregateJob data output
+$ $HADOOP_HOME/bin/hadoop jar target/hadoop-lc_converter-0.0.1.jar edu.cornell.library.aggregate.mapreduce.AggregateJob data output
 ```
 
 Running original test app...

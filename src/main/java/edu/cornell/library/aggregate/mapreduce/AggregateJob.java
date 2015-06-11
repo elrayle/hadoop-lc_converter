@@ -1,4 +1,4 @@
-package edu.cornell.library.lc_converter.mapreduce;
+package edu.cornell.library.aggregate.mapreduce;
 
 import org.apache.hadoop.conf.Configured;
 import org.apache.hadoop.fs.Path;

@@ -1,4 +1,4 @@
-package edu.cornell.library.lc_converter.mapreduce;
+package edu.cornell.library.topk.mapreduce;
 
 import org.apache.hadoop.io.LongWritable;
 import org.apache.hadoop.io.Text;
